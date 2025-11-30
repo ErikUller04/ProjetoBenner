@@ -1,0 +1,9 @@
+C:\Users\fernando.gevard\Downloads\AvaliacaoDotnet\Projeto\AvaliacaoDotnet\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\fernando.gevard\Downloads\AvaliacaoDotnet\Projeto\AvaliacaoDotnet\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\fernando.gevard\Downloads\AvaliacaoDotnet\Projeto\AvaliacaoDotnet\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\fernando.gevard\Downloads\AvaliacaoDotnet\Projeto\AvaliacaoDotnet\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fernando.gevard\Downloads\AvaliacaoDotnet\Projeto\AvaliacaoDotnet\ConsoleApp1\obj\Debug\AvaliacaoDotnet.csprojAssemblyReference.cache
+C:\Users\fernando.gevard\Downloads\AvaliacaoDotnet\Projeto\AvaliacaoDotnet\ConsoleApp1\obj\Debug\AvaliacaoDotnet.csproj.CoreCompileInputs.cache
+C:\Users\fernando.gevard\Downloads\AvaliacaoDotnet\Projeto\AvaliacaoDotnet\ConsoleApp1\obj\Debug\AvaliacaoDotnet.csproj.CopyComplete
+C:\Users\fernando.gevard\Downloads\AvaliacaoDotnet\Projeto\AvaliacaoDotnet\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\fernando.gevard\Downloads\AvaliacaoDotnet\Projeto\AvaliacaoDotnet\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

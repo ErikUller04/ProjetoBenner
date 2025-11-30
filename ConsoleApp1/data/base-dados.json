@@ -1,0 +1,7614 @@
+[
+  {
+    "cnpj": "97.164.236/8824-57",
+    "nome": "Empresa Ficticia 01 LTDA",
+    "telefone": "(27) 93695-3642",
+    "documentos": [
+      {
+        "modelo": "NF",
+        "numero": "01-0001",
+        "valor": 2185.45,
+        "itens": [
+          {
+            "descricao": "Componente 178",
+            "valor": 302.89
+          },
+          {
+            "descricao": "Peça 549",
+            "valor": 364.78
+          },
+          {
+            "descricao": "Item 244",
+            "valor": 180.54
+          },
+          {
+            "descricao": "Serviço 092",
+            "valor": 341.61
+          },
+          {
+            "descricao": "Licença 235",
+            "valor": 248.96
+          },
+          {
+            "descricao": "Peça 569",
+            "valor": 136.05
+          },
+          {
+            "descricao": "Item 994",
+            "valor": 162.84
+          },
+          {
+            "descricao": "Serviço 334",
+            "valor": 447.78
+          }
+        ]
+      },
+      {
+        "modelo": "NF",
+        "numero": "01-0002",
+        "valor": 2292.98,
+        "itens": [
+          {
+            "descricao": "Assinatura 087",
+            "valor": 344.35
+          },
+          {
+            "descricao": "Produto 429",
+            "valor": 277.33
+          },
+          {
+            "descricao": "Assinatura 962",
+            "valor": 275.47
+          },
+          {
+            "descricao": "Componente 954",
+            "valor": 285.65
+          },
+          {
+            "descricao": "Serviço 389",
+            "valor": 17.58
+          },
+          {
+            "descricao": "Produto 386",
+            "valor": 207.04
+          },
+          {
+            "descricao": "Produto 249",
+            "valor": 429.23
+          },
+          {
+            "descricao": "Peça 938",
+            "valor": 418.71
+          },
+          {
+            "descricao": "Peça 668",
+            "valor": 37.62
+          }
+        ]
+      },
+      {
+        "modelo": "NFE",
+        "numero": "01-0003",
+        "valor": 986.65,
+        "itens": [
+          {
+            "descricao": "Licença 041",
+            "valor": 52.6
+          },
+          {
+            "descricao": "Produto 571",
+            "valor": 63.65
+          },
+          {
+            "descricao": "Assinatura 638",
+            "valor": 368.87
+          },
+          {
+            "descricao": "Licença 561",
+            "valor": 202.91
+          },
+          {
+            "descricao": "Item 317",
+            "valor": 118.12
+          },
+          {
+            "descricao": "Serviço 916",
+            "valor": 180.5
+          }
+        ]
+      },
+      {
+        "modelo": "NF",
+        "numero": "01-0004",
+        "valor": 833.8,
+        "itens": [
+          {
+            "descricao": "Peça 756",
+            "valor": 32.14
+          },
+          {
+            "descricao": "Pacote 970",
+            "valor": 16.87
+          },
+          {
+            "descricao": "Licença 578",
+            "valor": 277.43
+          },
+          {
+            "descricao": "Serviço 703",
+            "valor": 230.73
+          },
+          {
+            "descricao": "Serviço 851",
+            "valor": 200.89
+          },
+          {
+            "descricao": "Pacote 873",
+            "valor": 75.74
+          }
+        ]
+      },
+      {
+        "modelo": "CTRC",
+        "numero": "01-0005",
+        "valor": 2662.51,
+        "itens": [
+          {
+            "descricao": "Assinatura 158",
+            "valor": 438.01
+          },
+          {
+            "descricao": "Componente 476",
+            "valor": 434.94
+          },
+          {
+            "descricao": "Item 346",
+            "valor": 405.53
+          },
+          {
+            "descricao": "Componente 715",
+            "valor": 338.61
+          },
+          {
+            "descricao": "Produto 092",
+            "valor": 74.07
+          },
+          {
+            "descricao": "Componente 406",
+            "valor": 435.84
+          },
+          {
+            "descricao": "Pacote 883",
+            "valor": 36.95
+          },
+          {
+            "descricao": "Componente 210",
+            "valor": 369.73
+          },
+          {
+            "descricao": "Item 408",
+            "valor": 58.36
+          },
+          {
+            "descricao": "Licença 630",
+            "valor": 70.47
+          }
+        ]
+      },
+      {
+        "modelo": "NFC",
+        "numero": "01-0006",
+        "valor": 1612.24,
+        "itens": [
+          {
+            "descricao": "Assinatura 172",
+            "valor": 108.71
+          },
+          {
+            "descricao": "Pacote 707",
+            "valor": 181.41
+          },
+          {
+            "descricao": "Serviço 982",
+            "valor": 107.36
+          },
+          {
+            "descricao": "Assinatura 172",
+            "valor": 361.23
+          },
+          {
+            "descricao": "Assinatura 827",
+            "valor": 130.61
+          },
+          {
+            "descricao": "Serviço 724",
+            "valor": 482.73
+          },
+          {
+            "descricao": "Pacote 759",
+            "valor": 28.78
+          },
+          {
+            "descricao": "Licença 468",
+            "valor": 73.39
+          },
+          {
+            "descricao": "Licença 031",
+            "valor": 138.02
+          }
+        ]
+      },
+      {
+        "modelo": "NFE",
+        "numero": "01-0007",
+        "valor": 2281.05,
+        "itens": [
+          {
+            "descricao": "Pacote 727",
+            "valor": 130.05
+          },
+          {
+            "descricao": "Serviço 034",
+            "valor": 250.56
+          },
+          {
+            "descricao": "Peça 812",
+            "valor": 297.52
+          },
+          {
+            "descricao": "Pacote 688",
+            "valor": 244.17
+          },
+          {
+            "descricao": "Serviço 173",
+            "valor": 33.64
+          },
+          {
+            "descricao": "Pacote 362",
+            "valor": 378.81
+          },
+          {
+            "descricao": "Serviço 362",
+            "valor": 485.43
+          },
+          {
+            "descricao": "Licença 728",
+            "valor": 311.74
+          },
+          {
+            "descricao": "Peça 573",
+            "valor": 149.13
+          }
+        ]
+      },
+      {
+        "modelo": "NF",
+        "numero": "01-0008",
+        "valor": 1391.68,
+        "itens": [
+          {
+            "descricao": "Licença 316",
+            "valor": 143.37
+          },
+          {
+            "descricao": "Assinatura 584",
+            "valor": 40.74
+          },
+          {
+            "descricao": "Componente 423",
+            "valor": 405.63
+          },
+          {
+            "descricao": "Pacote 345",
+            "valor": 199.35
+          },
+          {
+            "descricao": "Item 630",
+            "valor": 288.22
+          },
+          {
+            "descricao": "Item 554",
+            "valor": 110.55
+          },
+          {
+            "descricao": "Serviço 659",
+            "valor": 45.19
+          },
+          {
+            "descricao": "Item 468",
+            "valor": 158.63
+          }
+        ]
+      },
+      {
+        "modelo": "CTRC",
+        "numero": "01-0009",
+        "valor": 2414.35,
+        "itens": [
+          {
+            "descricao": "Pacote 544",
+            "valor": 137.14
+          },
+          {
+            "descricao": "Pacote 911",
+            "valor": 342.43
+          },
+          {
+            "descricao": "Componente 301",
+            "valor": 99.21
+          },
+          {
+            "descricao": "Licença 118",
+            "valor": 241.1
+          },
+          {
+            "descricao": "Serviço 693",
+            "valor": 370.93
+          },
+          {
+            "descricao": "Item 254",
+            "valor": 244.38
+          },
+          {
+            "descricao": "Pacote 569",
+            "valor": 422.54
+          },
+          {
+            "descricao": "Componente 166",
+            "valor": 209.64
+          },
+          {
+            "descricao": "Licença 642",
+            "valor": 117.09
+          },
+          {
+            "descricao": "Item 608",
+            "valor": 229.89
+          }
+        ]
+      },
+      {
+        "modelo": "NFC",
+        "numero": "01-0010",
+        "valor": 1725.62,
+        "itens": [
+          {
+            "descricao": "Assinatura 470",
+            "valor": 192.81
+          },
+          {
+            "descricao": "Componente 601",
+            "valor": 321.16
+          },
+          {
+            "descricao": "Produto 090",
+            "valor": 280.34
+          },
+          {
+            "descricao": "Componente 205",
+            "valor": 253.0
+          },
+          {
+            "descricao": "Licença 527",
+            "valor": 181.57
+          },
+          {
+            "descricao": "Serviço 837",
+            "valor": 85.87
+          },
+          {
+            "descricao": "Licença 041",
+            "valor": 165.87
+          },
+          {
+            "descricao": "Pacote 850",
+            "valor": 39.82
+          },
+          {
+            "descricao": "Licença 296",
+            "valor": 205.18
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cnpj": "99.145.615/9580-95",
+    "nome": "Empresa Ficticia 02 LTDA",
+    "telefone": "(84) 93654-8698",
+    "documentos": [
+      {
+        "modelo": "NFE",
+        "numero": "02-0001",
+        "valor": 3347.83,
+        "itens": [
+          {
+            "descricao": "Assinatura 421",
+            "valor": 344.29
+          },
+          {
+            "descricao": "Pacote 451",
+            "valor": 406.22
+          },
+          {
+            "descricao": "Produto 877",
+            "valor": 441.47
+          },
+          {
+            "descricao": "Assinatura 572",
+            "valor": 117.96
+          },
+          {
+            "descricao": "Item 845",
+            "valor": 258.29
+          },
+          {
+            "descricao": "Pacote 408",
+            "valor": 355.08
+          },
+          {
+            "descricao": "Peça 095",
+            "valor": 464.47
+          },
+          {
+            "descricao": "Assinatura 193",
+            "valor": 363.21
+          },
+          {
+            "descricao": "Componente 535",
+            "valor": 471.39
+          },
+          {
+            "descricao": "Produto 134",
+            "valor": 125.45
+          }
+        ]
+      },
+      {
+        "modelo": "NFC",
+        "numero": "02-0002",
+        "valor": 2659.24,
+        "itens": [
+          {
+            "descricao": "Peça 809",
+            "valor": 491.78
+          },
+          {
+            "descricao": "Pacote 841",
+            "valor": 140.53
+          },
+          {
+            "descricao": "Assinatura 336",
+            "valor": 401.73
+          },
+          {
+            "descricao": "Assinatura 426",
+            "valor": 311.34
+          },
+          {
+            "descricao": "Item 267",
+            "valor": 171.74
+          },
+          {
+            "descricao": "Assinatura 393",
+            "valor": 252.67
+          },
+          {
+            "descricao": "Assinatura 079",
+            "valor": 104.57
+          },
+          {
+            "descricao": "Peça 750",
+            "valor": 346.77
+          },
+          {
+            "descricao": "Item 280",
+            "valor": 130.22
+          },
+          {
+            "descricao": "Assinatura 590",
+            "valor": 307.89
+          }
+        ]
+      },
+      {
+        "modelo": "NFS",
+        "numero": "02-0003",
+        "valor": 1819.97,
+        "itens": [
+          {
+            "descricao": "Pacote 880",
+            "valor": 424.05
+          },
+          {
+            "descricao": "Produto 727",
+            "valor": 198.73
+          },
+          {
+            "descricao": "Componente 649",
+            "valor": 84.79
+          },
+          {
+            "descricao": "Item 170",
+            "valor": 121.76
+          },
+          {
+            "descricao": "Produto 009",
+            "valor": 413.54
+          },
+          {
+            "descricao": "Peça 974",
+            "valor": 80.66
+          },
+          {
+            "descricao": "Peça 972",
+            "valor": 99.03
+          },
+          {
+            "descricao": "Item 857",
+            "valor": 397.41
+          }
+        ]
+      },
+      {
+        "modelo": "NFS",
+        "numero": "02-0004",
+        "valor": 2016.59,
+        "itens": [
+          {
+            "descricao": "Licença 529",
+            "valor": 232.5
+          },
+          {
+            "descricao": "Assinatura 068",
+            "valor": 497.63
+          },
+          {
+            "descricao": "Pacote 467",
+            "valor": 29.81
+          },
+          {
+            "descricao": "Produto 233",
+            "valor": 234.37
+          },
+          {
+            "descricao": "Produto 814",
+            "valor": 388.0
+          },
+          {
+            "descricao": "Peça 470",
+            "valor": 489.55
+          },
+          {
+            "descricao": "Produto 070",
+            "valor": 144.73
+          }
+        ]
+      },
+      {
+        "modelo": "CTRC",
+        "numero": "02-0005",
+        "valor": 2194.21,
+        "itens": [
+          {
+            "descricao": "Serviço 720",
+            "valor": 239.08
+          },
+          {
+            "descricao": "Pacote 523",
+            "valor": 387.7
+          },
+          {
+            "descricao": "Licença 438",
+            "valor": 343.75
+          },
+          {
+            "descricao": "Produto 758",
+            "valor": 351.82
+          },
+          {
+            "descricao": "Item 446",
+            "valor": 434.08
+          },
+          {
+            "descricao": "Serviço 806",
+            "valor": 437.78
+          }
+        ]
+      },
+      {
+        "modelo": "NFS",
+        "numero": "02-0006",
+        "valor": 2623.8,
+        "itens": [
+          {
+            "descricao": "Serviço 706",
+            "valor": 185.32
+          },
+          {
+            "descricao": "Peça 874",
+            "valor": 36.01
+          },
+          {
+            "descricao": "Item 553",
+            "valor": 421.95
+          },
+          {
+            "descricao": "Assinatura 593",
+            "valor": 357.72
+          },
+          {
+            "descricao": "Produto 175",
+            "valor": 209.2
+          },
+          {
+            "descricao": "Assinatura 001",
+            "valor": 240.63
+          },
+          {
+            "descricao": "Licença 664",
+            "valor": 450.25
+          },
+          {
+            "descricao": "Item 733",
+            "valor": 241.51
+          },
+          {
+            "descricao": "Item 743",
+            "valor": 481.21
+          }
+        ]
+      },
+      {
+        "modelo": "NFC",
+        "numero": "02-0007",
+        "valor": 2362.45,
+        "itens": [
+          {
+            "descricao": "Peça 050",
+            "valor": 276.21
+          },
+          {
+            "descricao": "Assinatura 494",
+            "valor": 382.19
+          },
+          {
+            "descricao": "Serviço 008",
+            "valor": 13.75
+          },
+          {
+            "descricao": "Produto 577",
+            "valor": 201.79
+          },
+          {
+            "descricao": "Item 702",
+            "valor": 446.68
+          },
+          {
+            "descricao": "Produto 153",
+            "valor": 61.06
+          },
+          {
+            "descricao": "Componente 031",
+            "valor": 476.91
+          },
+          {
+            "descricao": "Peça 219",
+            "valor": 170.75
+          },
+          {
+            "descricao": "Assinatura 185",
+            "valor": 333.11
+          }
+        ]
+      },
+      {
+        "modelo": "CTRC",
+        "numero": "02-0008",
+        "valor": 2081.76,
+        "itens": [
+          {
+            "descricao": "Pacote 673",
+            "valor": 371.64
+          },
+          {
+            "descricao": "Componente 205",
+            "valor": 368.45
+          },
+          {
+            "descricao": "Pacote 876",
+            "valor": 466.77
+          },
+          {
+            "descricao": "Pacote 277",
+            "valor": 338.41
+          },
+          {
+            "descricao": "Item 425",
+            "valor": 219.9
+          },
+          {
+            "descricao": "Serviço 388",
+            "valor": 316.59
+          }
+        ]
+      },
+      {
+        "modelo": "NFC",
+        "numero": "02-0009",
+        "valor": 1024.89,
+        "itens": [
+          {
+            "descricao": "Serviço 908",
+            "valor": 66.95
+          },
+          {
+            "descricao": "Licença 304",
+            "valor": 482.49
+          },
+          {
+            "descricao": "Serviço 815",
+            "valor": 273.55
+          },
+          {
+            "descricao": "Serviço 386",
+            "valor": 87.22
+          },
+          {
+            "descricao": "Pacote 449",
+            "valor": 114.68
+          }
+        ]
+      },
+      {
+        "modelo": "NFC",
+        "numero": "02-0010",
+        "valor": 1537.1,
+        "itens": [
+          {
+            "descricao": "Componente 753",
+            "valor": 20.16
+          },
+          {
+            "descricao": "Produto 185",
+            "valor": 181.85
+          },
+          {
+            "descricao": "Item 426",
+            "valor": 221.73
+          },
+          {
+            "descricao": "Componente 290",
+            "valor": 146.34
+          },
+          {
+            "descricao": "Serviço 302",
+            "valor": 161.88
+          },
+          {
+            "descricao": "Produto 075",
+            "valor": 327.21
+          },
+          {
+            "descricao": "Componente 350",
+            "valor": 347.37
+          },
+          {
+            "descricao": "Assinatura 541",
+            "valor": 130.56
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cnpj": "38.376.219/8668-13",
+    "nome": "Empresa Ficticia 03 LTDA",
+    "telefone": "(42) 98845-3833",
+    "documentos": [
+      {
+        "modelo": "NF",
+        "numero": "03-0001",
+        "valor": 1183.12,
+        "itens": [
+          {
+            "descricao": "Item 996",
+            "valor": 36.38
+          },
+          {
+            "descricao": "Peça 854",
+            "valor": 48.4
+          },
+          {
+            "descricao": "Assinatura 980",
+            "valor": 293.39
+          },
+          {
+            "descricao": "Serviço 230",
+            "valor": 368.62
+          },
+          {
+            "descricao": "Assinatura 544",
+            "valor": 58.41
+          },
+          {
+            "descricao": "Produto 001",
+            "valor": 58.76
+          },
+          {
+            "descricao": "Produto 642",
+            "valor": 302.64
+          },
+          {
+            "descricao": "Pacote 994",
+            "valor": 16.52
+          }
+        ]
+      },
+      {
+        "modelo": "NF",
+        "numero": "03-0002",
+        "valor": 1334.66,
+        "itens": [
+          {
+            "descricao": "Assinatura 963",
+            "valor": 65.59
+          },
+          {
+            "descricao": "Licença 299",
+            "valor": 190.41
+          },
+          {
+            "descricao": "Licença 530",
+            "valor": 337.91
+          },
+          {
+            "descricao": "Pacote 965",
+            "valor": 194.45
+          },
+          {
+            "descricao": "Item 224",
+            "valor": 125.07
+          },
+          {
+            "descricao": "Peça 601",
+            "valor": 421.23
+          }
+        ]
+      },
+      {
+        "modelo": "NF",
+        "numero": "03-0003",
+        "valor": 931.67,
+        "itens": [
+          {
+            "descricao": "Serviço 511",
+            "valor": 220.52
+          },
+          {
+            "descricao": "Assinatura 737",
+            "valor": 140.39
+          },
+          {
+            "descricao": "Assinatura 507",
+            "valor": 251.65
+          },
+          {
+            "descricao": "Produto 387",
+            "valor": 26.85
+          },
+          {
+            "descricao": "Componente 208",
+            "valor": 292.26
+          }
+        ]
+      },
+      {
+        "modelo": "CTRC",
+        "numero": "03-0004",
+        "valor": 1549.19,
+        "itens": [
+          {
+            "descricao": "Peça 812",
+            "valor": 212.26
+          },
+          {
+            "descricao": "Assinatura 550",
+            "valor": 402.56
+          },
+          {
+            "descricao": "Licença 281",
+            "valor": 270.59
+          },
+          {
+            "descricao": "Licença 466",
+            "valor": 341.95
+          },
+          {
+            "descricao": "Peça 715",
+            "valor": 246.2
+          },
+          {
+            "descricao": "Assinatura 756",
+            "valor": 75.63
+          }
+        ]
+      },
+      {
+        "modelo": "NF",
+        "numero": "03-0005",
+        "valor": 1265.74,
+        "itens": [
+          {
+            "descricao": "Pacote 374",
+            "valor": 41.04
+          },
+          {
+            "descricao": "Componente 325",
+            "valor": 28.75
+          },
+          {
+            "descricao": "Assinatura 978",
+            "valor": 432.93
+          },
+          {
+            "descricao": "Produto 175",
+            "valor": 369.89
+          },
+          {
+            "descricao": "Licença 953",
+            "valor": 393.13
+          }
+        ]
+      },
+      {
+        "modelo": "NF",
+        "numero": "03-0006",
+        "valor": 2630.22,
+        "itens": [
+          {
+            "descricao": "Componente 369",
+            "valor": 87.09
+          },
+          {
+            "descricao": "Serviço 593",
+            "valor": 318.4
+          },
+          {
+            "descricao": "Assinatura 645",
+            "valor": 101.41
+          },
+          {
+            "descricao": "Item 677",
+            "valor": 330.25
+          },
+          {
+            "descricao": "Produto 938",
+            "valor": 446.0
+          },
+          {
+            "descricao": "Item 069",
+            "valor": 254.77
+          },
+          {
+            "descricao": "Licença 956",
+            "valor": 17.04
+          },
+          {
+            "descricao": "Peça 252",
+            "valor": 324.54
+          },
+          {
+            "descricao": "Pacote 862",
+            "valor": 405.32
+          },
+          {
+            "descricao": "Componente 493",
+            "valor": 345.4
+          }
+        ]
+      },
+      {
+        "modelo": "NF",
+        "numero": "03-0007",
+        "valor": 1955.27,
+        "itens": [
+          {
+            "descricao": "Item 072",
+            "valor": 234.78
+          },
+          {
+            "descricao": "Assinatura 347",
+            "valor": 335.93
+          },
+          {
+            "descricao": "Pacote 883",
+            "valor": 398.3
+          },
+          {
+            "descricao": "Peça 628",
+            "valor": 208.68
+          },
+          {
+            "descricao": "Assinatura 998",
+            "valor": 492.59
+          },
+          {
+            "descricao": "Item 325",
+            "valor": 124.56
+          },
+          {
+            "descricao": "Assinatura 543",
+            "valor": 160.43
+          }
+        ]
+      },
+      {
+        "modelo": "NFS",
+        "numero": "03-0008",
+        "valor": 2925.5,
+        "itens": [
+          {
+            "descricao": "Pacote 564",
+            "valor": 439.76
+          },
+          {
+            "descricao": "Item 545",
+            "valor": 486.2
+          },
+          {
+            "descricao": "Assinatura 129",
+            "valor": 196.17
+          },
+          {
+            "descricao": "Pacote 934",
+            "valor": 407.9
+          },
+          {
+            "descricao": "Item 932",
+            "valor": 390.13
+          },
+          {
+            "descricao": "Assinatura 297",
+            "valor": 39.2
+          },
+          {
+            "descricao": "Item 281",
+            "valor": 475.84
+          },
+          {
+            "descricao": "Assinatura 259",
+            "valor": 490.3
+          }
+        ]
+      },
+      {
+        "modelo": "NFS",
+        "numero": "03-0009",
+        "valor": 1615.95,
+        "itens": [
+          {
+            "descricao": "Serviço 157",
+            "valor": 374.85
+          },
+          {
+            "descricao": "Serviço 672",
+            "valor": 145.13
+          },
+          {
+            "descricao": "Serviço 047",
+            "valor": 273.57
+          },
+          {
+            "descricao": "Serviço 611",
+            "valor": 368.27
+          },
+          {
+            "descricao": "Peça 043",
+            "valor": 89.54
+          },
+          {
+            "descricao": "Licença 569",
+            "valor": 364.59
+          }
+        ]
+      },
+      {
+        "modelo": "NF",
+        "numero": "03-0010",
+        "valor": 2583.67,
+        "itens": [
+          {
+            "descricao": "Componente 048",
+            "valor": 204.55
+          },
+          {
+            "descricao": "Componente 708",
+            "valor": 14.68
+          },
+          {
+            "descricao": "Componente 869",
+            "valor": 489.19
+          },
+          {
+            "descricao": "Assinatura 454",
+            "valor": 292.68
+          },
+          {
+            "descricao": "Licença 910",
+            "valor": 176.39
+          },
+          {
+            "descricao": "Produto 597",
+            "valor": 343.79
+          },
+          {
+            "descricao": "Produto 116",
+            "valor": 380.23
+          },
+          {
+            "descricao": "Item 065",
+            "valor": 174.86
+          },
+          {
+            "descricao": "Item 087",
+            "valor": 488.25
+          },
+          {
+            "descricao": "Pacote 544",
+            "valor": 19.05
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cnpj": "62.235.085/8432-57",
+    "nome": "Empresa Ficticia 04 LTDA",
+    "telefone": "(95) 95898-7114",
+    "documentos": [
+      {
+        "modelo": "NFC",
+        "numero": "04-0001",
+        "valor": 1313.95,
+        "itens": [
+          {
+            "descricao": "Serviço 801",
+            "valor": 88.1
+          },
+          {
+            "descricao": "Serviço 653",
+            "valor": 75.15
+          },
+          {
+            "descricao": "Licença 972",
+            "valor": 265.04
+          },
+          {
+            "descricao": "Serviço 363",
+            "valor": 205.24
+          },
+          {
+            "descricao": "Serviço 863",
+            "valor": 422.39
+          },
+          {
+            "descricao": "Assinatura 322",
+            "valor": 50.4
+          },
+          {
+            "descricao": "Peça 071",
+            "valor": 11.69
+          },
+          {
+            "descricao": "Serviço 888",
+            "valor": 17.53
+          },
+          {
+            "descricao": "Produto 881",
+            "valor": 178.41
+          }
+        ]
+      },
+      {
+        "modelo": "NFC",
+        "numero": "04-0002",
+        "valor": 3385.22,
+        "itens": [
+          {
+            "descricao": "Componente 958",
+            "valor": 446.01
+          },
+          {
+            "descricao": "Pacote 128",
+            "valor": 295.22
+          },
+          {
+            "descricao": "Assinatura 338",
+            "valor": 430.65
+          },
+          {
+            "descricao": "Serviço 704",
+            "valor": 144.21
+          },
+          {
+            "descricao": "Produto 730",
+            "valor": 446.61
+          },
+          {
+            "descricao": "Serviço 843",
+            "valor": 462.96
+          },
+          {
+            "descricao": "Assinatura 738",
+            "valor": 90.72
+          },
+          {
+            "descricao": "Serviço 238",
+            "valor": 430.8
+          },
+          {
+            "descricao": "Assinatura 189",
+            "valor": 286.19
+          },
+          {
+            "descricao": "Item 737",
+            "valor": 351.85
+          }
+        ]
+      },
+      {
+        "modelo": "NFE",
+        "numero": "04-0003",
+        "valor": 1301.7,
+        "itens": [
+          {
+            "descricao": "Componente 568",
+            "valor": 10.94
+          },
+          {
+            "descricao": "Serviço 643",
+            "valor": 173.03
+          },
+          {
+            "descricao": "Peça 978",
+            "valor": 200.94
+          },
+          {
+            "descricao": "Pacote 783",
+            "valor": 417.62
+          },
+          {
+            "descricao": "Assinatura 033",
+            "valor": 79.5
+          },
+          {
+            "descricao": "Componente 271",
+            "valor": 285.52
+          },
+          {
+            "descricao": "Assinatura 544",
+            "valor": 134.15
+          }
+        ]
+      },
+      {
+        "modelo": "NFS",
+        "numero": "04-0004",
+        "valor": 770.5,
+        "itens": [
+          {
+            "descricao": "Serviço 889",
+            "valor": 43.98
+          },
+          {
+            "descricao": "Serviço 712",
+            "valor": 93.35
+          },
+          {
+            "descricao": "Assinatura 901",
+            "valor": 145.19
+          },
+          {
+            "descricao": "Peça 508",
+            "valor": 99.67
+          },
+          {
+            "descricao": "Peça 946",
+            "valor": 367.86
+          },
+          {
+            "descricao": "Peça 156",
+            "valor": 20.45
+          }
+        ]
+      },
+      {
+        "modelo": "NF",
+        "numero": "04-0005",
+        "valor": 2227.06,
+        "itens": [
+          {
+            "descricao": "Componente 116",
+            "valor": 256.81
+          },
+          {
+            "descricao": "Item 975",
+            "valor": 207.25
+          },
+          {
+            "descricao": "Produto 664",
+            "valor": 333.59
+          },
+          {
+            "descricao": "Pacote 093",
+            "valor": 249.38
+          },
+          {
+            "descricao": "Serviço 439",
+            "valor": 174.67
+          },
+          {
+            "descricao": "Assinatura 669",
+            "valor": 53.33
+          },
+          {
+            "descricao": "Licença 115",
+            "valor": 471.02
+          },
+          {
+            "descricao": "Assinatura 326",
+            "valor": 38.24
+          },
+          {
+            "descricao": "Item 040",
+            "valor": 245.86
+          },
+          {
+            "descricao": "Item 994",
+            "valor": 196.91
+          }
+        ]
+      },
+      {
+        "modelo": "NF",
+        "numero": "04-0006",
+        "valor": 2165.18,
+        "itens": [
+          {
+            "descricao": "Produto 043",
+            "valor": 122.46
+          },
+          {
+            "descricao": "Assinatura 641",
+            "valor": 242.64
+          },
+          {
+            "descricao": "Peça 788",
+            "valor": 368.71
+          },
+          {
+            "descricao": "Serviço 962",
+            "valor": 173.76
+          },
+          {
+            "descricao": "Pacote 103",
+            "valor": 485.52
+          },
+          {
+            "descricao": "Licença 996",
+            "valor": 239.31
+          },
+          {
+            "descricao": "Produto 757",
+            "valor": 400.45
+          },
+          {
+            "descricao": "Assinatura 148",
+            "valor": 132.33
+          }
+        ]
+      },
+      {
+        "modelo": "NF",
+        "numero": "04-0007",
+        "valor": 1950.9,
+        "itens": [
+          {
+            "descricao": "Produto 633",
+            "valor": 399.82
+          },
+          {
+            "descricao": "Peça 545",
+            "valor": 436.79
+          },
+          {
+            "descricao": "Assinatura 204",
+            "valor": 220.76
+          },
+          {
+            "descricao": "Componente 092",
+            "valor": 415.17
+          },
+          {
+            "descricao": "Componente 618",
+            "valor": 478.36
+          }
+        ]
+      },
+      {
+        "modelo": "NFS",
+        "numero": "04-0008",
+        "valor": 2115.95,
+        "itens": [
+          {
+            "descricao": "Licença 493",
+            "valor": 406.66
+          },
+          {
+            "descricao": "Peça 616",
+            "valor": 464.28
+          },
+          {
+            "descricao": "Pacote 498",
+            "valor": 160.22
+          },
+          {
+            "descricao": "Produto 681",
+            "valor": 145.75
+          },
+          {
+            "descricao": "Licença 915",
+            "valor": 299.73
+          },
+          {
+            "descricao": "Pacote 223",
+            "valor": 169.0
+          },
+          {
+            "descricao": "Componente 553",
+            "valor": 166.96
+          },
+          {
+            "descricao": "Produto 377",
+            "valor": 303.35
+          }
+        ]
+      },
+      {
+        "modelo": "NFC",
+        "numero": "04-0009",
+        "valor": 2160.73,
+        "itens": [
+          {
+            "descricao": "Item 178",
+            "valor": 206.2
+          },
+          {
+            "descricao": "Componente 223",
+            "valor": 261.29
+          },
+          {
+            "descricao": "Componente 344",
+            "valor": 333.09
+          },
+          {
+            "descricao": "Peça 996",
+            "valor": 189.83
+          },
+          {
+            "descricao": "Item 564",
+            "valor": 276.9
+          },
+          {
+            "descricao": "Peça 439",
+            "valor": 457.52
+          },
+          {
+            "descricao": "Assinatura 159",
+            "valor": 123.97
+          },
+          {
+            "descricao": "Peça 567",
+            "valor": 42.59
+          },
+          {
+            "descricao": "Assinatura 959",
+            "valor": 242.35
+          },
+          {
+            "descricao": "Item 414",
+            "valor": 26.99
+          }
+        ]
+      },
+      {
+        "modelo": "NFC",
+        "numero": "04-0010",
+        "valor": 2270.94,
+        "itens": [
+          {
+            "descricao": "Licença 383",
+            "valor": 410.03
+          },
+          {
+            "descricao": "Componente 707",
+            "valor": 62.67
+          },
+          {
+            "descricao": "Produto 940",
+            "valor": 294.79
+          },
+          {
+            "descricao": "Assinatura 342",
+            "valor": 314.83
+          },
+          {
+            "descricao": "Serviço 227",
+            "valor": 368.86
+          },
+          {
+            "descricao": "Componente 266",
+            "valor": 116.05
+          },
+          {
+            "descricao": "Item 860",
+            "valor": 140.11
+          },
+          {
+            "descricao": "Pacote 060",
+            "valor": 243.46
+          },
+          {
+            "descricao": "Licença 693",
+            "valor": 308.44
+          },
+          {
+            "descricao": "Item 607",
+            "valor": 11.7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cnpj": "64.737.780/5740-43",
+    "nome": "Empresa Ficticia 05 LTDA",
+    "telefone": "(72) 97821-7322",
+    "documentos": [
+      {
+        "modelo": "NFE",
+        "numero": "05-0001",
+        "valor": 2685.83,
+        "itens": [
+          {
+            "descricao": "Serviço 846",
+            "valor": 335.92
+          },
+          {
+            "descricao": "Componente 016",
+            "valor": 90.92
+          },
+          {
+            "descricao": "Componente 252",
+            "valor": 395.39
+          },
+          {
+            "descricao": "Pacote 008",
+            "valor": 335.0
+          },
+          {
+            "descricao": "Assinatura 238",
+            "valor": 33.3
+          },
+          {
+            "descricao": "Componente 926",
+            "valor": 261.91
+          },
+          {
+            "descricao": "Pacote 071",
+            "valor": 334.88
+          },
+          {
+            "descricao": "Licença 754",
+            "valor": 456.98
+          },
+          {
+            "descricao": "Licença 185",
+            "valor": 189.43
+          },
+          {
+            "descricao": "Componente 879",
+            "valor": 252.1
+          }
+        ]
+      },
+      {
+        "modelo": "CTRC",
+        "numero": "05-0002",
+        "valor": 1415.71,
+        "itens": [
+          {
+            "descricao": "Pacote 682",
+            "valor": 44.48
+          },
+          {
+            "descricao": "Serviço 164",
+            "valor": 47.86
+          },
+          {
+            "descricao": "Produto 988",
+            "valor": 16.98
+          },
+          {
+            "descricao": "Item 779",
+            "valor": 212.88
+          },
+          {
+            "descricao": "Assinatura 109",
+            "valor": 194.35
+          },
+          {
+            "descricao": "Licença 900",
+            "valor": 336.22
+          },
+          {
+            "descricao": "Produto 337",
+            "valor": 237.95
+          },
+          {
+            "descricao": "Item 463",
+            "valor": 76.98
+          },
+          {
+            "descricao": "Assinatura 776",
+            "valor": 84.37
+          },
+          {
+            "descricao": "Peça 108",
+            "valor": 163.64
+          }
+        ]
+      },
+      {
+        "modelo": "NFC",
+        "numero": "05-0003",
+        "valor": 2843.87,
+        "itens": [
+          {
+            "descricao": "Item 280",
+            "valor": 107.21
+          },
+          {
+            "descricao": "Componente 951",
+            "valor": 444.11
+          },
+          {
+            "descricao": "Assinatura 763",
+            "valor": 332.8
+          },
+          {
+            "descricao": "Assinatura 144",
+            "valor": 349.62
+          },
+          {
+            "descricao": "Item 093",
+            "valor": 40.25
+          },
+          {
+            "descricao": "Licença 331",
+            "valor": 487.6
+          },
+          {
+            "descricao": "Peça 228",
+            "valor": 153.38
+          },
+          {
+            "descricao": "Assinatura 096",
+            "valor": 218.81
+          },
+          {
+            "descricao": "Pacote 759",
+            "valor": 490.74
+          },
+          {
+            "descricao": "Licença 131",
+            "valor": 219.35
+          }
+        ]
+      },
+      {
+        "modelo": "NF",
+        "numero": "05-0004",
+        "valor": 1465.14,
+        "itens": [
+          {
+            "descricao": "Serviço 637",
+            "valor": 350.97
+          },
+          {
+            "descricao": "Pacote 939",
+            "valor": 341.39
+          },
+          {
+            "descricao": "Produto 803",
+            "valor": 203.64
+          },
+          {
+            "descricao": "Pacote 548",
+            "valor": 344.12
+          },
+          {
+            "descricao": "Pacote 399",
+            "valor": 225.02
+          }
+        ]
+      },
+      {
+        "modelo": "CTRC",
+        "numero": "05-0005",
+        "valor": 1702.02,
+        "itens": [
+          {
+            "descricao": "Item 489",
+            "valor": 193.95
+          },
+          {
+            "descricao": "Produto 809",
+            "valor": 465.6
+          },
+          {
+            "descricao": "Produto 084",
+            "valor": 52.13
+          },
+          {
+            "descricao": "Licença 887",
+            "valor": 324.65
+          },
+          {
+            "descricao": "Item 195",
+            "valor": 373.76
+          },
+          {
+            "descricao": "Componente 573",
+            "valor": 15.78
+          },
+          {
+            "descricao": "Pacote 382",
+            "valor": 183.52
+          },
+          {
+            "descricao": "Serviço 036",
+            "valor": 92.63
+          }
+        ]
+      },
+      {
+        "modelo": "NF",
+        "numero": "05-0006",
+        "valor": 1128.46,
+        "itens": [
+          {
+            "descricao": "Pacote 749",
+            "valor": 27.44
+          },
+          {
+            "descricao": "Pacote 548",
+            "valor": 367.95
+          },
+          {
+            "descricao": "Assinatura 623",
+            "valor": 39.35
+          },
+          {
+            "descricao": "Assinatura 112",
+            "valor": 378.14
+          },
+          {
+            "descricao": "Item 869",
+            "valor": 315.58
+          }
+        ]
+      },
+      {
+        "modelo": "NFS",
+        "numero": "05-0007",
+        "valor": 1449.22,
+        "itens": [
+          {
+            "descricao": "Componente 069",
+            "valor": 31.9
+          },
+          {
+            "descricao": "Produto 311",
+            "valor": 103.2
+          },
+          {
+            "descricao": "Componente 278",
+            "valor": 80.47
+          },
+          {
+            "descricao": "Item 951",
+            "valor": 369.82
+          },
+          {
+            "descricao": "Item 457",
+            "valor": 210.56
+          },
+          {
+            "descricao": "Item 149",
+            "valor": 372.24
+          },
+          {
+            "descricao": "Produto 510",
+            "valor": 281.03
+          }
+        ]
+      },
+      {
+        "modelo": "NFE",
+        "numero": "05-0008",
+        "valor": 1749.35,
+        "itens": [
+          {
+            "descricao": "Peça 458",
+            "valor": 66.63
+          },
+          {
+            "descricao": "Serviço 191",
+            "valor": 445.58
+          },
+          {
+            "descricao": "Serviço 894",
+            "valor": 388.26
+          },
+          {
+            "descricao": "Item 670",
+            "valor": 102.71
+          },
+          {
+            "descricao": "Componente 270",
+            "valor": 277.8
+          },
+          {
+            "descricao": "Pacote 074",
+            "valor": 147.86
+          },
+          {
+            "descricao": "Licença 425",
+            "valor": 192.16
+          },
+          {
+            "descricao": "Licença 587",
+            "valor": 36.54
+          },
+          {
+            "descricao": "Assinatura 841",
+            "valor": 91.81
+          }
+        ]
+      },
+      {
+        "modelo": "NFS",
+        "numero": "05-0009",
+        "valor": 1586.12,
+        "itens": [
+          {
+            "descricao": "Produto 677",
+            "valor": 309.3
+          },
+          {
+            "descricao": "Licença 535",
+            "valor": 288.41
+          },
+          {
+            "descricao": "Licença 893",
+            "valor": 239.56
+          },
+          {
+            "descricao": "Pacote 750",
+            "valor": 79.52
+          },
+          {
+            "descricao": "Item 747",
+            "valor": 341.17
+          },
+          {
+            "descricao": "Serviço 659",
+            "valor": 328.16
+          }
+        ]
+      },
+      {
+        "modelo": "NF",
+        "numero": "05-0010",
+        "valor": 1189.78,
+        "itens": [
+          {
+            "descricao": "Assinatura 170",
+            "valor": 78.62
+          },
+          {
+            "descricao": "Produto 325",
+            "valor": 473.35
+          },
+          {
+            "descricao": "Item 858",
+            "valor": 179.03
+          },
+          {
+            "descricao": "Licença 756",
+            "valor": 164.15
+          },
+          {
+            "descricao": "Assinatura 620",
+            "valor": 294.63
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cnpj": "02.583.161/8142-81",
+    "nome": "Empresa Ficticia 06 LTDA",
+    "telefone": "(22) 95190-6128",
+    "documentos": [
+      {
+        "modelo": "NFC",
+        "numero": "06-0001",
+        "valor": 2402.21,
+        "itens": [
+          {
+            "descricao": "Produto 960",
+            "valor": 423.86
+          },
+          {
+            "descricao": "Assinatura 073",
+            "valor": 58.8
+          },
+          {
+            "descricao": "Componente 436",
+            "valor": 52.87
+          },
+          {
+            "descricao": "Componente 807",
+            "valor": 396.96
+          },
+          {
+            "descricao": "Pacote 945",
+            "valor": 380.28
+          },
+          {
+            "descricao": "Peça 574",
+            "valor": 59.21
+          },
+          {
+            "descricao": "Serviço 286",
+            "valor": 462.13
+          },
+          {
+            "descricao": "Pacote 119",
+            "valor": 108.12
+          },
+          {
+            "descricao": "Assinatura 792",
+            "valor": 459.98
+          }
+        ]
+      },
+      {
+        "modelo": "NFS",
+        "numero": "06-0002",
+        "valor": 2335.68,
+        "itens": [
+          {
+            "descricao": "Licença 822",
+            "valor": 442.18
+          },
+          {
+            "descricao": "Componente 714",
+            "valor": 57.78
+          },
+          {
+            "descricao": "Licença 906",
+            "valor": 228.02
+          },
+          {
+            "descricao": "Item 092",
+            "valor": 422.77
+          },
+          {
+            "descricao": "Pacote 552",
+            "valor": 304.32
+          },
+          {
+            "descricao": "Produto 803",
+            "valor": 357.11
+          },
+          {
+            "descricao": "Assinatura 619",
+            "valor": 391.25
+          },
+          {
+            "descricao": "Pacote 081",
+            "valor": 72.59
+          },
+          {
+            "descricao": "Licença 013",
+            "valor": 59.66
+          }
+        ]
+      },
+      {
+        "modelo": "NFE",
+        "numero": "06-0003",
+        "valor": 1327.01,
+        "itens": [
+          {
+            "descricao": "Serviço 997",
+            "valor": 487.82
+          },
+          {
+            "descricao": "Item 533",
+            "valor": 127.56
+          },
+          {
+            "descricao": "Licença 929",
+            "valor": 113.42
+          },
+          {
+            "descricao": "Peça 650",
+            "valor": 276.83
+          },
+          {
+            "descricao": "Componente 716",
+            "valor": 321.38
+          }
+        ]
+      },
+      {
+        "modelo": "NFC",
+        "numero": "06-0004",
+        "valor": 1503.49,
+        "itens": [
+          {
+            "descricao": "Componente 445",
+            "valor": 489.75
+          },
+          {
+            "descricao": "Serviço 468",
+            "valor": 479.96
+          },
+          {
+            "descricao": "Licença 295",
+            "valor": 444.62
+          },
+          {
+            "descricao": "Serviço 705",
+            "valor": 36.25
+          },
+          {
+            "descricao": "Assinatura 969",
+            "valor": 52.91
+          }
+        ]
+      },
+      {
+        "modelo": "NFC",
+        "numero": "06-0005",
+        "valor": 1444.69,
+        "itens": [
+          {
+            "descricao": "Produto 477",
+            "valor": 79.51
+          },
+          {
+            "descricao": "Assinatura 299",
+            "valor": 268.33
+          },
+          {
+            "descricao": "Serviço 954",
+            "valor": 261.1
+          },
+          {
+            "descricao": "Peça 810",
+            "valor": 10.77
+          },
+          {
+            "descricao": "Item 513",
+            "valor": 333.34
+          },
+          {
+            "descricao": "Serviço 257",
+            "valor": 325.68
+          },
+          {
+            "descricao": "Produto 211",
+            "valor": 165.96
+          }
+        ]
+      },
+      {
+        "modelo": "NF",
+        "numero": "06-0006",
+        "valor": 2208.72,
+        "itens": [
+          {
+            "descricao": "Peça 683",
+            "valor": 298.86
+          },
+          {
+            "descricao": "Pacote 905",
+            "valor": 252.57
+          },
+          {
+            "descricao": "Produto 180",
+            "valor": 32.96
+          },
+          {
+            "descricao": "Produto 462",
+            "valor": 16.78
+          },
+          {
+            "descricao": "Serviço 865",
+            "valor": 108.62
+          },
+          {
+            "descricao": "Licença 789",
+            "valor": 211.54
+          },
+          {
+            "descricao": "Licença 004",
+            "valor": 391.64
+          },
+          {
+            "descricao": "Assinatura 028",
+            "valor": 489.51
+          },
+          {
+            "descricao": "Produto 207",
+            "valor": 406.24
+          }
+        ]
+      },
+      {
+        "modelo": "NF",
+        "numero": "06-0007",
+        "valor": 1930.72,
+        "itens": [
+          {
+            "descricao": "Licença 334",
+            "valor": 472.44
+          },
+          {
+            "descricao": "Licença 711",
+            "valor": 295.68
+          },
+          {
+            "descricao": "Pacote 580",
+            "valor": 68.55
+          },
+          {
+            "descricao": "Assinatura 333",
+            "valor": 225.82
+          },
+          {
+            "descricao": "Produto 431",
+            "valor": 251.31
+          },
+          {
+            "descricao": "Pacote 269",
+            "valor": 166.86
+          },
+          {
+            "descricao": "Serviço 752",
+            "valor": 450.06
+          }
+        ]
+      },
+      {
+        "modelo": "NFE",
+        "numero": "06-0008",
+        "valor": 1205.25,
+        "itens": [
+          {
+            "descricao": "Peça 547",
+            "valor": 202.67
+          },
+          {
+            "descricao": "Produto 195",
+            "valor": 56.13
+          },
+          {
+            "descricao": "Peça 132",
+            "valor": 154.85
+          },
+          {
+            "descricao": "Pacote 086",
+            "valor": 211.28
+          },
+          {
+            "descricao": "Licença 513",
+            "valor": 252.76
+          },
+          {
+            "descricao": "Serviço 867",
+            "valor": 146.4
+          },
+          {
+            "descricao": "Serviço 071",
+            "valor": 80.36
+          },
+          {
+            "descricao": "Serviço 706",
+            "valor": 100.8
+          }
+        ]
+      },
+      {
+        "modelo": "NFE",
+        "numero": "06-0009",
+        "valor": 2267.18,
+        "itens": [
+          {
+            "descricao": "Serviço 833",
+            "valor": 186.37
+          },
+          {
+            "descricao": "Item 023",
+            "valor": 367.83
+          },
+          {
+            "descricao": "Assinatura 498",
+            "valor": 282.98
+          },
+          {
+            "descricao": "Serviço 338",
+            "valor": 323.11
+          },
+          {
+            "descricao": "Componente 238",
+            "valor": 226.27
+          },
+          {
+            "descricao": "Componente 741",
+            "valor": 461.11
+          },
+          {
+            "descricao": "Pacote 000",
+            "valor": 419.51
+          }
+        ]
+      },
+      {
+        "modelo": "NFE",
+        "numero": "06-0010",
+        "valor": 2563.71,
+        "itens": [
+          {
+            "descricao": "Item 494",
+            "valor": 304.22
+          },
+          {
+            "descricao": "Componente 765",
+            "valor": 294.93
+          },
+          {
+            "descricao": "Peça 117",
+            "valor": 84.84
+          },
+          {
+            "descricao": "Pacote 608",
+            "valor": 480.06
+          },
+          {
+            "descricao": "Produto 632",
+            "valor": 107.24
+          },
+          {
+            "descricao": "Produto 097",
+            "valor": 423.31
+          },
+          {
+            "descricao": "Pacote 599",
+            "valor": 147.23
+          },
+          {
+            "descricao": "Licença 167",
+            "valor": 401.0
+          },
+          {
+            "descricao": "Serviço 579",
+            "valor": 320.88
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cnpj": "92.092.775/4497-06",
+    "nome": "Empresa Ficticia 07 LTDA",
+    "telefone": "(22) 90374-4329",
+    "documentos": [
+      {
+        "modelo": "CTRC",
+        "numero": "07-0001",
+        "valor": 1949.36,
+        "itens": [
+          {
+            "descricao": "Licença 593",
+            "valor": 473.04
+          },
+          {
+            "descricao": "Componente 174",
+            "valor": 225.74
+          },
+          {
+            "descricao": "Licença 275",
+            "valor": 66.24
+          },
+          {
+            "descricao": "Item 037",
+            "valor": 407.78
+          },
+          {
+            "descricao": "Componente 190",
+            "valor": 74.99
+          },
+          {
+            "descricao": "Peça 720",
+            "valor": 163.39
+          },
+          {
+            "descricao": "Item 172",
+            "valor": 236.26
+          },
+          {
+            "descricao": "Componente 578",
+            "valor": 197.66
+          },
+          {
+            "descricao": "Pacote 787",
+            "valor": 104.26
+          }
+        ]
+      },
+      {
+        "modelo": "NF",
+        "numero": "07-0002",
+        "valor": 2676.2,
+        "itens": [
+          {
+            "descricao": "Serviço 141",
+            "valor": 213.72
+          },
+          {
+            "descricao": "Item 087",
+            "valor": 157.53
+          },
+          {
+            "descricao": "Produto 543",
+            "valor": 254.46
+          },
+          {
+            "descricao": "Item 492",
+            "valor": 260.86
+          },
+          {
+            "descricao": "Serviço 146",
+            "valor": 499.11
+          },
+          {
+            "descricao": "Peça 877",
+            "valor": 74.88
+          },
+          {
+            "descricao": "Licença 149",
+            "valor": 387.63
+          },
+          {
+            "descricao": "Assinatura 471",
+            "valor": 436.76
+          },
+          {
+            "descricao": "Assinatura 483",
+            "valor": 391.25
+          }
+        ]
+      },
+      {
+        "modelo": "NF",
+        "numero": "07-0003",
+        "valor": 1480.09,
+        "itens": [
+          {
+            "descricao": "Pacote 968",
+            "valor": 195.81
+          },
+          {
+            "descricao": "Item 070",
+            "valor": 291.89
+          },
+          {
+            "descricao": "Assinatura 345",
+            "valor": 152.83
+          },
+          {
+            "descricao": "Peça 160",
+            "valor": 234.55
+          },
+          {
+            "descricao": "Licença 270",
+            "valor": 26.51
+          },
+          {
+            "descricao": "Serviço 621",
+            "valor": 21.98
+          },
+          {
+            "descricao": "Pacote 795",
+            "valor": 244.56
+          },
+          {
+            "descricao": "Assinatura 579",
+            "valor": 23.77
+          },
+          {
+            "descricao": "Pacote 557",
+            "valor": 288.19
+          }
+        ]
+      },
+      {
+        "modelo": "NF",
+        "numero": "07-0004",
+        "valor": 2470.95,
+        "itens": [
+          {
+            "descricao": "Pacote 639",
+            "valor": 263.97
+          },
+          {
+            "descricao": "Assinatura 036",
+            "valor": 402.84
+          },
+          {
+            "descricao": "Assinatura 488",
+            "valor": 48.52
+          },
+          {
+            "descricao": "Componente 354",
+            "valor": 379.33
+          },
+          {
+            "descricao": "Assinatura 648",
+            "valor": 195.24
+          },
+          {
+            "descricao": "Assinatura 954",
+            "valor": 143.01
+          },
+          {
+            "descricao": "Componente 820",
+            "valor": 137.88
+          },
+          {
+            "descricao": "Licença 750",
+            "valor": 456.18
+          },
+          {
+            "descricao": "Assinatura 430",
+            "valor": 191.17
+          },
+          {
+            "descricao": "Serviço 263",
+            "valor": 252.81
+          }
+        ]
+      },
+      {
+        "modelo": "NFS",
+        "numero": "07-0005",
+        "valor": 1574.57,
+        "itens": [
+          {
+            "descricao": "Pacote 319",
+            "valor": 300.85
+          },
+          {
+            "descricao": "Produto 874",
+            "valor": 219.33
+          },
+          {
+            "descricao": "Licença 812",
+            "valor": 288.99
+          },
+          {
+            "descricao": "Assinatura 470",
+            "valor": 202.2
+          },
+          {
+            "descricao": "Produto 997",
+            "valor": 433.41
+          },
+          {
+            "descricao": "Serviço 534",
+            "valor": 129.79
+          }
+        ]
+      },
+      {
+        "modelo": "NFC",
+        "numero": "07-0006",
+        "valor": 894.3,
+        "itens": [
+          {
+            "descricao": "Produto 685",
+            "valor": 115.7
+          },
+          {
+            "descricao": "Assinatura 504",
+            "valor": 184.65
+          },
+          {
+            "descricao": "Produto 090",
+            "valor": 186.92
+          },
+          {
+            "descricao": "Componente 889",
+            "valor": 65.06
+          },
+          {
+            "descricao": "Assinatura 980",
+            "valor": 112.64
+          },
+          {
+            "descricao": "Produto 477",
+            "valor": 229.33
+          }
+        ]
+      },
+      {
+        "modelo": "NFC",
+        "numero": "07-0007",
+        "valor": 889.36,
+        "itens": [
+          {
+            "descricao": "Item 943",
+            "valor": 158.95
+          },
+          {
+            "descricao": "Pacote 125",
+            "valor": 119.21
+          },
+          {
+            "descricao": "Peça 582",
+            "valor": 318.87
+          },
+          {
+            "descricao": "Pacote 316",
+            "valor": 219.88
+          },
+          {
+            "descricao": "Licença 037",
+            "valor": 26.96
+          },
+          {
+            "descricao": "Peça 689",
+            "valor": 45.49
+          }
+        ]
+      },
+      {
+        "modelo": "CTRC",
+        "numero": "07-0008",
+        "valor": 2163.47,
+        "itens": [
+          {
+            "descricao": "Licença 079",
+            "valor": 468.64
+          },
+          {
+            "descricao": "Serviço 861",
+            "valor": 32.03
+          },
+          {
+            "descricao": "Licença 054",
+            "valor": 497.24
+          },
+          {
+            "descricao": "Licença 216",
+            "valor": 91.85
+          },
+          {
+            "descricao": "Item 520",
+            "valor": 243.39
+          },
+          {
+            "descricao": "Produto 558",
+            "valor": 289.41
+          },
+          {
+            "descricao": "Pacote 185",
+            "valor": 366.89
+          },
+          {
+            "descricao": "Produto 837",
+            "valor": 174.02
+          }
+        ]
+      },
+      {
+        "modelo": "NFC",
+        "numero": "07-0009",
+        "valor": 1149.01,
+        "itens": [
+          {
+            "descricao": "Produto 686",
+            "valor": 240.53
+          },
+          {
+            "descricao": "Componente 800",
+            "valor": 133.98
+          },
+          {
+            "descricao": "Componente 515",
+            "valor": 493.71
+          },
+          {
+            "descricao": "Assinatura 170",
+            "valor": 10.23
+          },
+          {
+            "descricao": "Serviço 135",
+            "valor": 270.56
+          }
+        ]
+      },
+      {
+        "modelo": "NFC",
+        "numero": "07-0010",
+        "valor": 1920.71,
+        "itens": [
+          {
+            "descricao": "Item 747",
+            "valor": 46.51
+          },
+          {
+            "descricao": "Assinatura 975",
+            "valor": 106.49
+          },
+          {
+            "descricao": "Peça 481",
+            "valor": 243.12
+          },
+          {
+            "descricao": "Serviço 114",
+            "valor": 325.68
+          },
+          {
+            "descricao": "Componente 337",
+            "valor": 301.92
+          },
+          {
+            "descricao": "Componente 503",
+            "valor": 321.86
+          },
+          {
+            "descricao": "Item 588",
+            "valor": 188.14
+          },
+          {
+            "descricao": "Pacote 062",
+            "valor": 138.8
+          },
+          {
+            "descricao": "Serviço 472",
+            "valor": 171.46
+          },
+          {
+            "descricao": "Assinatura 766",
+            "valor": 76.73
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cnpj": "02.202.069/7573-37",
+    "nome": "Empresa Ficticia 08 LTDA",
+    "telefone": "(33) 92537-4369",
+    "documentos": [
+      {
+        "modelo": "NF",
+        "numero": "08-0001",
+        "valor": 2581.5,
+        "itens": [
+          {
+            "descricao": "Serviço 069",
+            "valor": 344.94
+          },
+          {
+            "descricao": "Pacote 659",
+            "valor": 208.46
+          },
+          {
+            "descricao": "Serviço 001",
+            "valor": 74.82
+          },
+          {
+            "descricao": "Produto 366",
+            "valor": 230.58
+          },
+          {
+            "descricao": "Peça 769",
+            "valor": 427.14
+          },
+          {
+            "descricao": "Licença 129",
+            "valor": 75.64
+          },
+          {
+            "descricao": "Peça 272",
+            "valor": 367.53
+          },
+          {
+            "descricao": "Peça 368",
+            "valor": 481.65
+          },
+          {
+            "descricao": "Pacote 244",
+            "valor": 370.74
+          }
+        ]
+      },
+      {
+        "modelo": "NFC",
+        "numero": "08-0002",
+        "valor": 2660.74,
+        "itens": [
+          {
+            "descricao": "Peça 938",
+            "valor": 127.74
+          },
+          {
+            "descricao": "Item 036",
+            "valor": 467.47
+          },
+          {
+            "descricao": "Assinatura 563",
+            "valor": 37.11
+          },
+          {
+            "descricao": "Pacote 867",
+            "valor": 348.04
+          },
+          {
+            "descricao": "Componente 427",
+            "valor": 360.01
+          },
+          {
+            "descricao": "Item 230",
+            "valor": 105.39
+          },
+          {
+            "descricao": "Item 978",
+            "valor": 336.66
+          },
+          {
+            "descricao": "Pacote 544",
+            "valor": 392.9
+          },
+          {
+            "descricao": "Produto 621",
+            "valor": 485.42
+          }
+        ]
+      },
+      {
+        "modelo": "NF",
+        "numero": "08-0003",
+        "valor": 1743.09,
+        "itens": [
+          {
+            "descricao": "Serviço 094",
+            "valor": 336.38
+          },
+          {
+            "descricao": "Assinatura 733",
+            "valor": 246.87
+          },
+          {
+            "descricao": "Peça 550",
+            "valor": 139.19
+          },
+          {
+            "descricao": "Item 494",
+            "valor": 250.01
+          },
+          {
+            "descricao": "Produto 790",
+            "valor": 210.41
+          },
+          {
+            "descricao": "Peça 974",
+            "valor": 327.26
+          },
+          {
+            "descricao": "Produto 100",
+            "valor": 232.97
+          }
+        ]
+      },
+      {
+        "modelo": "CTRC",
+        "numero": "08-0004",
+        "valor": 1389.85,
+        "itens": [
+          {
+            "descricao": "Licença 619",
+            "valor": 400.13
+          },
+          {
+            "descricao": "Peça 425",
+            "valor": 124.29
+          },
+          {
+            "descricao": "Assinatura 049",
+            "valor": 362.97
+          },
+          {
+            "descricao": "Pacote 897",
+            "valor": 232.75
+          },
+          {
+            "descricao": "Pacote 280",
+            "valor": 269.71
+          }
+        ]
+      },
+      {
+        "modelo": "CTRC",
+        "numero": "08-0005",
+        "valor": 1502.87,
+        "itens": [
+          {
+            "descricao": "Serviço 503",
+            "valor": 201.46
+          },
+          {
+            "descricao": "Licença 053",
+            "valor": 97.5
+          },
+          {
+            "descricao": "Item 658",
+            "valor": 68.2
+          },
+          {
+            "descricao": "Item 173",
+            "valor": 305.16
+          },
+          {
+            "descricao": "Assinatura 215",
+            "valor": 223.23
+          },
+          {
+            "descricao": "Componente 473",
+            "valor": 80.57
+          },
+          {
+            "descricao": "Pacote 957",
+            "valor": 62.55
+          },
+          {
+            "descricao": "Serviço 323",
+            "valor": 464.2
+          }
+        ]
+      },
+      {
+        "modelo": "CTRC",
+        "numero": "08-0006",
+        "valor": 1662.35,
+        "itens": [
+          {
+            "descricao": "Peça 214",
+            "valor": 484.2
+          },
+          {
+            "descricao": "Licença 291",
+            "valor": 285.73
+          },
+          {
+            "descricao": "Peça 579",
+            "valor": 144.31
+          },
+          {
+            "descricao": "Produto 852",
+            "valor": 319.0
+          },
+          {
+            "descricao": "Item 216",
+            "valor": 81.4
+          },
+          {
+            "descricao": "Assinatura 136",
+            "valor": 16.18
+          },
+          {
+            "descricao": "Assinatura 448",
+            "valor": 198.13
+          },
+          {
+            "descricao": "Serviço 948",
+            "valor": 133.4
+          }
+        ]
+      },
+      {
+        "modelo": "CTRC",
+        "numero": "08-0007",
+        "valor": 1991.94,
+        "itens": [
+          {
+            "descricao": "Serviço 024",
+            "valor": 484.58
+          },
+          {
+            "descricao": "Pacote 235",
+            "valor": 362.42
+          },
+          {
+            "descricao": "Componente 199",
+            "valor": 367.57
+          },
+          {
+            "descricao": "Peça 130",
+            "valor": 456.14
+          },
+          {
+            "descricao": "Serviço 854",
+            "valor": 321.23
+          }
+        ]
+      },
+      {
+        "modelo": "CTRC",
+        "numero": "08-0008",
+        "valor": 2868.16,
+        "itens": [
+          {
+            "descricao": "Peça 722",
+            "valor": 58.91
+          },
+          {
+            "descricao": "Produto 331",
+            "valor": 89.72
+          },
+          {
+            "descricao": "Componente 928",
+            "valor": 421.56
+          },
+          {
+            "descricao": "Assinatura 617",
+            "valor": 362.15
+          },
+          {
+            "descricao": "Licença 561",
+            "valor": 368.29
+          },
+          {
+            "descricao": "Componente 233",
+            "valor": 59.7
+          },
+          {
+            "descricao": "Item 339",
+            "valor": 310.52
+          },
+          {
+            "descricao": "Pacote 877",
+            "valor": 393.43
+          },
+          {
+            "descricao": "Licença 691",
+            "valor": 355.91
+          },
+          {
+            "descricao": "Licença 847",
+            "valor": 447.97
+          }
+        ]
+      },
+      {
+        "modelo": "NF",
+        "numero": "08-0009",
+        "valor": 3512.9,
+        "itens": [
+          {
+            "descricao": "Produto 796",
+            "valor": 321.64
+          },
+          {
+            "descricao": "Serviço 692",
+            "valor": 399.58
+          },
+          {
+            "descricao": "Serviço 423",
+            "valor": 434.23
+          },
+          {
+            "descricao": "Licença 860",
+            "valor": 264.27
+          },
+          {
+            "descricao": "Componente 986",
+            "valor": 472.61
+          },
+          {
+            "descricao": "Produto 575",
+            "valor": 366.62
+          },
+          {
+            "descricao": "Peça 225",
+            "valor": 40.68
+          },
+          {
+            "descricao": "Pacote 110",
+            "valor": 436.34
+          },
+          {
+            "descricao": "Assinatura 802",
+            "valor": 281.78
+          },
+          {
+            "descricao": "Componente 122",
+            "valor": 495.15
+          }
+        ]
+      },
+      {
+        "modelo": "NFC",
+        "numero": "08-0010",
+        "valor": 2303.51,
+        "itens": [
+          {
+            "descricao": "Assinatura 621",
+            "valor": 339.3
+          },
+          {
+            "descricao": "Componente 484",
+            "valor": 426.65
+          },
+          {
+            "descricao": "Serviço 017",
+            "valor": 225.91
+          },
+          {
+            "descricao": "Componente 759",
+            "valor": 224.16
+          },
+          {
+            "descricao": "Peça 055",
+            "valor": 52.91
+          },
+          {
+            "descricao": "Pacote 267",
+            "valor": 299.06
+          },
+          {
+            "descricao": "Assinatura 708",
+            "valor": 498.73
+          },
+          {
+            "descricao": "Item 253",
+            "valor": 141.93
+          },
+          {
+            "descricao": "Licença 032",
+            "valor": 94.86
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cnpj": "85.426.515/0008-20",
+    "nome": "Empresa Ficticia 09 LTDA",
+    "telefone": "(43) 96816-2591",
+    "documentos": [
+      {
+        "modelo": "NFE",
+        "numero": "09-0001",
+        "valor": 2237.38,
+        "itens": [
+          {
+            "descricao": "Licença 803",
+            "valor": 425.53
+          },
+          {
+            "descricao": "Item 021",
+            "valor": 471.22
+          },
+          {
+            "descricao": "Serviço 100",
+            "valor": 214.02
+          },
+          {
+            "descricao": "Item 476",
+            "valor": 335.32
+          },
+          {
+            "descricao": "Componente 553",
+            "valor": 156.45
+          },
+          {
+            "descricao": "Serviço 323",
+            "valor": 449.47
+          },
+          {
+            "descricao": "Assinatura 816",
+            "valor": 83.64
+          },
+          {
+            "descricao": "Item 348",
+            "valor": 101.73
+          }
+        ]
+      },
+      {
+        "modelo": "NFC",
+        "numero": "09-0002",
+        "valor": 1347.41,
+        "itens": [
+          {
+            "descricao": "Item 400",
+            "valor": 69.16
+          },
+          {
+            "descricao": "Serviço 016",
+            "valor": 422.5
+          },
+          {
+            "descricao": "Pacote 768",
+            "valor": 151.73
+          },
+          {
+            "descricao": "Assinatura 164",
+            "valor": 12.72
+          },
+          {
+            "descricao": "Item 956",
+            "valor": 336.83
+          },
+          {
+            "descricao": "Serviço 536",
+            "valor": 94.44
+          },
+          {
+            "descricao": "Licença 252",
+            "valor": 260.03
+          }
+        ]
+      },
+      {
+        "modelo": "NFE",
+        "numero": "09-0003",
+        "valor": 291.06,
+        "itens": [
+          {
+            "descricao": "Assinatura 808",
+            "valor": 23.51
+          },
+          {
+            "descricao": "Item 301",
+            "valor": 37.34
+          },
+          {
+            "descricao": "Produto 777",
+            "valor": 89.48
+          },
+          {
+            "descricao": "Peça 379",
+            "valor": 21.94
+          },
+          {
+            "descricao": "Item 222",
+            "valor": 86.77
+          },
+          {
+            "descricao": "Assinatura 610",
+            "valor": 32.02
+          }
+        ]
+      },
+      {
+        "modelo": "NF",
+        "numero": "09-0004",
+        "valor": 1587.81,
+        "itens": [
+          {
+            "descricao": "Serviço 928",
+            "valor": 100.58
+          },
+          {
+            "descricao": "Produto 176",
+            "valor": 416.21
+          },
+          {
+            "descricao": "Pacote 712",
+            "valor": 265.86
+          },
+          {
+            "descricao": "Peça 243",
+            "valor": 120.81
+          },
+          {
+            "descricao": "Componente 755",
+            "valor": 452.46
+          },
+          {
+            "descricao": "Assinatura 547",
+            "valor": 231.89
+          }
+        ]
+      },
+      {
+        "modelo": "NFC",
+        "numero": "09-0005",
+        "valor": 2440.9,
+        "itens": [
+          {
+            "descricao": "Componente 739",
+            "valor": 342.88
+          },
+          {
+            "descricao": "Item 110",
+            "valor": 379.48
+          },
+          {
+            "descricao": "Item 292",
+            "valor": 62.63
+          },
+          {
+            "descricao": "Produto 798",
+            "valor": 39.0
+          },
+          {
+            "descricao": "Item 433",
+            "valor": 31.52
+          },
+          {
+            "descricao": "Serviço 736",
+            "valor": 243.17
+          },
+          {
+            "descricao": "Licença 131",
+            "valor": 461.63
+          },
+          {
+            "descricao": "Serviço 395",
+            "valor": 308.05
+          },
+          {
+            "descricao": "Pacote 628",
+            "valor": 426.91
+          },
+          {
+            "descricao": "Pacote 011",
+            "valor": 145.63
+          }
+        ]
+      },
+      {
+        "modelo": "CTRC",
+        "numero": "09-0006",
+        "valor": 1938.14,
+        "itens": [
+          {
+            "descricao": "Peça 347",
+            "valor": 481.06
+          },
+          {
+            "descricao": "Serviço 938",
+            "valor": 274.91
+          },
+          {
+            "descricao": "Peça 010",
+            "valor": 205.49
+          },
+          {
+            "descricao": "Item 600",
+            "valor": 223.25
+          },
+          {
+            "descricao": "Produto 750",
+            "valor": 274.66
+          },
+          {
+            "descricao": "Componente 766",
+            "valor": 316.09
+          },
+          {
+            "descricao": "Serviço 798",
+            "valor": 162.68
+          }
+        ]
+      },
+      {
+        "modelo": "CTRC",
+        "numero": "09-0007",
+        "valor": 2905.92,
+        "itens": [
+          {
+            "descricao": "Componente 566",
+            "valor": 278.42
+          },
+          {
+            "descricao": "Assinatura 886",
+            "valor": 104.68
+          },
+          {
+            "descricao": "Produto 384",
+            "valor": 271.24
+          },
+          {
+            "descricao": "Serviço 700",
+            "valor": 360.52
+          },
+          {
+            "descricao": "Item 145",
+            "valor": 413.8
+          },
+          {
+            "descricao": "Licença 332",
+            "valor": 359.87
+          },
+          {
+            "descricao": "Licença 100",
+            "valor": 22.18
+          },
+          {
+            "descricao": "Licença 100",
+            "valor": 471.5
+          },
+          {
+            "descricao": "Item 779",
+            "valor": 371.97
+          },
+          {
+            "descricao": "Pacote 349",
+            "valor": 251.74
+          }
+        ]
+      },
+      {
+        "modelo": "NFS",
+        "numero": "09-0008",
+        "valor": 1643.11,
+        "itens": [
+          {
+            "descricao": "Item 048",
+            "valor": 320.39
+          },
+          {
+            "descricao": "Peça 385",
+            "valor": 169.69
+          },
+          {
+            "descricao": "Licença 450",
+            "valor": 129.16
+          },
+          {
+            "descricao": "Licença 225",
+            "valor": 365.35
+          },
+          {
+            "descricao": "Serviço 560",
+            "valor": 436.1
+          },
+          {
+            "descricao": "Item 601",
+            "valor": 132.35
+          },
+          {
+            "descricao": "Peça 164",
+            "valor": 90.07
+          }
+        ]
+      },
+      {
+        "modelo": "NF",
+        "numero": "09-0009",
+        "valor": 2709.76,
+        "itens": [
+          {
+            "descricao": "Pacote 445",
+            "valor": 449.01
+          },
+          {
+            "descricao": "Peça 473",
+            "valor": 45.2
+          },
+          {
+            "descricao": "Item 721",
+            "valor": 140.32
+          },
+          {
+            "descricao": "Componente 969",
+            "valor": 240.41
+          },
+          {
+            "descricao": "Peça 116",
+            "valor": 391.03
+          },
+          {
+            "descricao": "Componente 964",
+            "valor": 441.9
+          },
+          {
+            "descricao": "Serviço 830",
+            "valor": 443.57
+          },
+          {
+            "descricao": "Peça 809",
+            "valor": 123.43
+          },
+          {
+            "descricao": "Pacote 236",
+            "valor": 434.89
+          }
+        ]
+      },
+      {
+        "modelo": "NF",
+        "numero": "09-0010",
+        "valor": 2078.86,
+        "itens": [
+          {
+            "descricao": "Componente 931",
+            "valor": 444.9
+          },
+          {
+            "descricao": "Peça 153",
+            "valor": 113.51
+          },
+          {
+            "descricao": "Produto 699",
+            "valor": 229.66
+          },
+          {
+            "descricao": "Licença 251",
+            "valor": 281.24
+          },
+          {
+            "descricao": "Componente 922",
+            "valor": 315.35
+          },
+          {
+            "descricao": "Assinatura 102",
+            "valor": 27.66
+          },
+          {
+            "descricao": "Assinatura 597",
+            "valor": 396.64
+          },
+          {
+            "descricao": "Item 166",
+            "valor": 269.9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cnpj": "53.647.879/2550-77",
+    "nome": "Empresa Ficticia 10 LTDA",
+    "telefone": "(67) 91793-8798",
+    "documentos": [
+      {
+        "modelo": "NF",
+        "numero": "10-0001",
+        "valor": 1323.05,
+        "itens": [
+          {
+            "descricao": "Peça 623",
+            "valor": 438.57
+          },
+          {
+            "descricao": "Assinatura 274",
+            "valor": 197.17
+          },
+          {
+            "descricao": "Assinatura 444",
+            "valor": 145.39
+          },
+          {
+            "descricao": "Componente 871",
+            "valor": 467.71
+          },
+          {
+            "descricao": "Item 112",
+            "valor": 74.21
+          }
+        ]
+      },
+      {
+        "modelo": "CTRC",
+        "numero": "10-0002",
+        "valor": 2017.72,
+        "itens": [
+          {
+            "descricao": "Produto 734",
+            "valor": 110.75
+          },
+          {
+            "descricao": "Licença 727",
+            "valor": 184.64
+          },
+          {
+            "descricao": "Serviço 245",
+            "valor": 371.08
+          },
+          {
+            "descricao": "Produto 069",
+            "valor": 250.43
+          },
+          {
+            "descricao": "Item 778",
+            "valor": 85.69
+          },
+          {
+            "descricao": "Serviço 558",
+            "valor": 268.37
+          },
+          {
+            "descricao": "Serviço 484",
+            "valor": 360.27
+          },
+          {
+            "descricao": "Licença 837",
+            "valor": 156.48
+          },
+          {
+            "descricao": "Peça 078",
+            "valor": 104.08
+          },
+          {
+            "descricao": "Assinatura 622",
+            "valor": 125.93
+          }
+        ]
+      },
+      {
+        "modelo": "NF",
+        "numero": "10-0003",
+        "valor": 1295.5,
+        "itens": [
+          {
+            "descricao": "Componente 332",
+            "valor": 437.22
+          },
+          {
+            "descricao": "Item 820",
+            "valor": 242.51
+          },
+          {
+            "descricao": "Item 899",
+            "valor": 89.65
+          },
+          {
+            "descricao": "Licença 065",
+            "valor": 129.23
+          },
+          {
+            "descricao": "Licença 123",
+            "valor": 396.89
+          }
+        ]
+      },
+      {
+        "modelo": "NFE",
+        "numero": "10-0004",
+        "valor": 2405.22,
+        "itens": [
+          {
+            "descricao": "Pacote 231",
+            "valor": 116.21
+          },
+          {
+            "descricao": "Serviço 825",
+            "valor": 166.61
+          },
+          {
+            "descricao": "Peça 676",
+            "valor": 310.0
+          },
+          {
+            "descricao": "Produto 357",
+            "valor": 48.83
+          },
+          {
+            "descricao": "Componente 880",
+            "valor": 369.84
+          },
+          {
+            "descricao": "Componente 722",
+            "valor": 320.43
+          },
+          {
+            "descricao": "Licença 741",
+            "valor": 79.56
+          },
+          {
+            "descricao": "Licença 102",
+            "valor": 475.77
+          },
+          {
+            "descricao": "Componente 085",
+            "valor": 395.1
+          },
+          {
+            "descricao": "Pacote 877",
+            "valor": 122.87
+          }
+        ]
+      },
+      {
+        "modelo": "NFC",
+        "numero": "10-0005",
+        "valor": 1916.11,
+        "itens": [
+          {
+            "descricao": "Componente 815",
+            "valor": 263.84
+          },
+          {
+            "descricao": "Licença 017",
+            "valor": 173.84
+          },
+          {
+            "descricao": "Item 816",
+            "valor": 469.43
+          },
+          {
+            "descricao": "Pacote 644",
+            "valor": 250.67
+          },
+          {
+            "descricao": "Assinatura 346",
+            "valor": 371.21
+          },
+          {
+            "descricao": "Pacote 255",
+            "valor": 97.05
+          },
+          {
+            "descricao": "Licença 834",
+            "valor": 290.07
+          }
+        ]
+      },
+      {
+        "modelo": "CTRC",
+        "numero": "10-0006",
+        "valor": 1856.68,
+        "itens": [
+          {
+            "descricao": "Item 690",
+            "valor": 384.78
+          },
+          {
+            "descricao": "Serviço 603",
+            "valor": 385.14
+          },
+          {
+            "descricao": "Serviço 138",
+            "valor": 370.24
+          },
+          {
+            "descricao": "Licença 682",
+            "valor": 323.95
+          },
+          {
+            "descricao": "Peça 280",
+            "valor": 392.57
+          }
+        ]
+      },
+      {
+        "modelo": "CTRC",
+        "numero": "10-0007",
+        "valor": 1367.05,
+        "itens": [
+          {
+            "descricao": "Item 131",
+            "valor": 141.58
+          },
+          {
+            "descricao": "Assinatura 951",
+            "valor": 167.91
+          },
+          {
+            "descricao": "Serviço 231",
+            "valor": 336.94
+          },
+          {
+            "descricao": "Assinatura 207",
+            "valor": 215.7
+          },
+          {
+            "descricao": "Produto 142",
+            "valor": 86.17
+          },
+          {
+            "descricao": "Peça 010",
+            "valor": 247.89
+          },
+          {
+            "descricao": "Licença 282",
+            "valor": 170.86
+          }
+        ]
+      },
+      {
+        "modelo": "NF",
+        "numero": "10-0008",
+        "valor": 824.52,
+        "itens": [
+          {
+            "descricao": "Assinatura 230",
+            "valor": 82.11
+          },
+          {
+            "descricao": "Assinatura 455",
+            "valor": 46.61
+          },
+          {
+            "descricao": "Peça 277",
+            "valor": 90.35
+          },
+          {
+            "descricao": "Pacote 789",
+            "valor": 379.91
+          },
+          {
+            "descricao": "Pacote 144",
+            "valor": 206.15
+          },
+          {
+            "descricao": "Pacote 378",
+            "valor": 19.39
+          }
+        ]
+      },
+      {
+        "modelo": "NFC",
+        "numero": "10-0009",
+        "valor": 1731.94,
+        "itens": [
+          {
+            "descricao": "Produto 022",
+            "valor": 175.73
+          },
+          {
+            "descricao": "Assinatura 872",
+            "valor": 200.77
+          },
+          {
+            "descricao": "Licença 275",
+            "valor": 357.69
+          },
+          {
+            "descricao": "Licença 969",
+            "valor": 349.77
+          },
+          {
+            "descricao": "Peça 703",
+            "valor": 244.46
+          },
+          {
+            "descricao": "Item 825",
+            "valor": 403.52
+          }
+        ]
+      },
+      {
+        "modelo": "NF",
+        "numero": "10-0010",
+        "valor": 1232.78,
+        "itens": [
+          {
+            "descricao": "Item 243",
+            "valor": 164.14
+          },
+          {
+            "descricao": "Componente 724",
+            "valor": 280.95
+          },
+          {
+            "descricao": "Item 885",
+            "valor": 287.66
+          },
+          {
+            "descricao": "Peça 548",
+            "valor": 94.18
+          },
+          {
+            "descricao": "Serviço 932",
+            "valor": 405.85
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cnpj": "83.086.437/5680-71",
+    "nome": "Empresa Ficticia 11 LTDA",
+    "telefone": "(39) 99650-7019",
+    "documentos": [
+      {
+        "modelo": "NFE",
+        "numero": "11-0001",
+        "valor": 1281.2,
+        "itens": [
+          {
+            "descricao": "Peça 194",
+            "valor": 334.36
+          },
+          {
+            "descricao": "Componente 635",
+            "valor": 272.86
+          },
+          {
+            "descricao": "Item 185",
+            "valor": 425.66
+          },
+          {
+            "descricao": "Assinatura 975",
+            "valor": 194.99
+          },
+          {
+            "descricao": "Pacote 537",
+            "valor": 53.33
+          }
+        ]
+      },
+      {
+        "modelo": "NFS",
+        "numero": "11-0002",
+        "valor": 1275.11,
+        "itens": [
+          {
+            "descricao": "Componente 957",
+            "valor": 232.66
+          },
+          {
+            "descricao": "Assinatura 207",
+            "valor": 125.22
+          },
+          {
+            "descricao": "Serviço 052",
+            "valor": 53.06
+          },
+          {
+            "descricao": "Item 370",
+            "valor": 189.59
+          },
+          {
+            "descricao": "Produto 106",
+            "valor": 325.87
+          },
+          {
+            "descricao": "Produto 913",
+            "valor": 348.71
+          }
+        ]
+      },
+      {
+        "modelo": "NF",
+        "numero": "11-0003",
+        "valor": 1611.47,
+        "itens": [
+          {
+            "descricao": "Assinatura 577",
+            "valor": 49.77
+          },
+          {
+            "descricao": "Licença 918",
+            "valor": 142.67
+          },
+          {
+            "descricao": "Serviço 118",
+            "valor": 71.67
+          },
+          {
+            "descricao": "Componente 046",
+            "valor": 394.89
+          },
+          {
+            "descricao": "Serviço 774",
+            "valor": 166.4
+          },
+          {
+            "descricao": "Componente 286",
+            "valor": 257.37
+          },
+          {
+            "descricao": "Componente 220",
+            "valor": 123.83
+          },
+          {
+            "descricao": "Componente 506",
+            "valor": 223.49
+          },
+          {
+            "descricao": "Assinatura 608",
+            "valor": 181.38
+          }
+        ]
+      },
+      {
+        "modelo": "CTRC",
+        "numero": "11-0004",
+        "valor": 2590.66,
+        "itens": [
+          {
+            "descricao": "Peça 428",
+            "valor": 137.04
+          },
+          {
+            "descricao": "Componente 396",
+            "valor": 459.55
+          },
+          {
+            "descricao": "Assinatura 695",
+            "valor": 222.35
+          },
+          {
+            "descricao": "Pacote 195",
+            "valor": 38.55
+          },
+          {
+            "descricao": "Peça 738",
+            "valor": 473.53
+          },
+          {
+            "descricao": "Item 120",
+            "valor": 491.61
+          },
+          {
+            "descricao": "Componente 673",
+            "valor": 133.55
+          },
+          {
+            "descricao": "Assinatura 834",
+            "valor": 491.6
+          },
+          {
+            "descricao": "Assinatura 863",
+            "valor": 142.88
+          }
+        ]
+      },
+      {
+        "modelo": "NFS",
+        "numero": "11-0005",
+        "valor": 3502.18,
+        "itens": [
+          {
+            "descricao": "Item 676",
+            "valor": 217.68
+          },
+          {
+            "descricao": "Pacote 714",
+            "valor": 493.5
+          },
+          {
+            "descricao": "Produto 450",
+            "valor": 227.01
+          },
+          {
+            "descricao": "Componente 473",
+            "valor": 66.07
+          },
+          {
+            "descricao": "Item 994",
+            "valor": 499.06
+          },
+          {
+            "descricao": "Item 923",
+            "valor": 445.53
+          },
+          {
+            "descricao": "Licença 797",
+            "valor": 467.04
+          },
+          {
+            "descricao": "Produto 931",
+            "valor": 281.03
+          },
+          {
+            "descricao": "Licença 707",
+            "valor": 434.72
+          },
+          {
+            "descricao": "Produto 287",
+            "valor": 370.54
+          }
+        ]
+      },
+      {
+        "modelo": "NF",
+        "numero": "11-0006",
+        "valor": 2657.88,
+        "itens": [
+          {
+            "descricao": "Item 995",
+            "valor": 222.75
+          },
+          {
+            "descricao": "Pacote 088",
+            "valor": 498.35
+          },
+          {
+            "descricao": "Produto 193",
+            "valor": 450.16
+          },
+          {
+            "descricao": "Serviço 690",
+            "valor": 401.5
+          },
+          {
+            "descricao": "Componente 553",
+            "valor": 188.04
+          },
+          {
+            "descricao": "Componente 709",
+            "valor": 384.5
+          },
+          {
+            "descricao": "Peça 166",
+            "valor": 205.17
+          },
+          {
+            "descricao": "Assinatura 574",
+            "valor": 178.56
+          },
+          {
+            "descricao": "Produto 701",
+            "valor": 128.85
+          }
+        ]
+      },
+      {
+        "modelo": "CTRC",
+        "numero": "11-0007",
+        "valor": 1997.34,
+        "itens": [
+          {
+            "descricao": "Assinatura 341",
+            "valor": 411.05
+          },
+          {
+            "descricao": "Produto 503",
+            "valor": 301.18
+          },
+          {
+            "descricao": "Serviço 815",
+            "valor": 274.72
+          },
+          {
+            "descricao": "Item 551",
+            "valor": 292.65
+          },
+          {
+            "descricao": "Serviço 592",
+            "valor": 387.46
+          },
+          {
+            "descricao": "Componente 656",
+            "valor": 330.28
+          }
+        ]
+      },
+      {
+        "modelo": "CTRC",
+        "numero": "11-0008",
+        "valor": 3066.85,
+        "itens": [
+          {
+            "descricao": "Produto 638",
+            "valor": 247.59
+          },
+          {
+            "descricao": "Licença 145",
+            "valor": 470.69
+          },
+          {
+            "descricao": "Serviço 685",
+            "valor": 171.12
+          },
+          {
+            "descricao": "Item 169",
+            "valor": 430.02
+          },
+          {
+            "descricao": "Pacote 733",
+            "valor": 345.06
+          },
+          {
+            "descricao": "Serviço 165",
+            "valor": 407.71
+          },
+          {
+            "descricao": "Componente 940",
+            "valor": 231.12
+          },
+          {
+            "descricao": "Item 294",
+            "valor": 262.09
+          },
+          {
+            "descricao": "Produto 066",
+            "valor": 307.17
+          },
+          {
+            "descricao": "Serviço 976",
+            "valor": 194.28
+          }
+        ]
+      },
+      {
+        "modelo": "NFS",
+        "numero": "11-0009",
+        "valor": 1592.35,
+        "itens": [
+          {
+            "descricao": "Licença 459",
+            "valor": 109.33
+          },
+          {
+            "descricao": "Item 790",
+            "valor": 432.99
+          },
+          {
+            "descricao": "Pacote 720",
+            "valor": 355.28
+          },
+          {
+            "descricao": "Produto 326",
+            "valor": 285.53
+          },
+          {
+            "descricao": "Componente 678",
+            "valor": 409.22
+          }
+        ]
+      },
+      {
+        "modelo": "NFS",
+        "numero": "11-0010",
+        "valor": 2115.56,
+        "itens": [
+          {
+            "descricao": "Pacote 102",
+            "valor": 141.55
+          },
+          {
+            "descricao": "Serviço 297",
+            "valor": 46.58
+          },
+          {
+            "descricao": "Assinatura 231",
+            "valor": 114.01
+          },
+          {
+            "descricao": "Assinatura 620",
+            "valor": 163.55
+          },
+          {
+            "descricao": "Peça 301",
+            "valor": 476.76
+          },
+          {
+            "descricao": "Pacote 723",
+            "valor": 214.27
+          },
+          {
+            "descricao": "Item 782",
+            "valor": 400.26
+          },
+          {
+            "descricao": "Pacote 562",
+            "valor": 139.82
+          },
+          {
+            "descricao": "Licença 512",
+            "valor": 418.76
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cnpj": "80.240.371/0724-89",
+    "nome": "Empresa Ficticia 12 LTDA",
+    "telefone": "(43) 98233-2700",
+    "documentos": [
+      {
+        "modelo": "NF",
+        "numero": "12-0001",
+        "valor": 1264.74,
+        "itens": [
+          {
+            "descricao": "Produto 277",
+            "valor": 367.23
+          },
+          {
+            "descricao": "Item 334",
+            "valor": 279.6
+          },
+          {
+            "descricao": "Licença 500",
+            "valor": 72.22
+          },
+          {
+            "descricao": "Componente 878",
+            "valor": 16.78
+          },
+          {
+            "descricao": "Item 983",
+            "valor": 192.34
+          },
+          {
+            "descricao": "Assinatura 197",
+            "valor": 336.57
+          }
+        ]
+      },
+      {
+        "modelo": "NFS",
+        "numero": "12-0002",
+        "valor": 1424.09,
+        "itens": [
+          {
+            "descricao": "Assinatura 775",
+            "valor": 391.8
+          },
+          {
+            "descricao": "Licença 464",
+            "valor": 223.98
+          },
+          {
+            "descricao": "Licença 927",
+            "valor": 154.05
+          },
+          {
+            "descricao": "Peça 737",
+            "valor": 312.29
+          },
+          {
+            "descricao": "Pacote 073",
+            "valor": 341.97
+          }
+        ]
+      },
+      {
+        "modelo": "NF",
+        "numero": "12-0003",
+        "valor": 1780.09,
+        "itens": [
+          {
+            "descricao": "Pacote 601",
+            "valor": 273.56
+          },
+          {
+            "descricao": "Assinatura 587",
+            "valor": 280.49
+          },
+          {
+            "descricao": "Produto 732",
+            "valor": 487.86
+          },
+          {
+            "descricao": "Peça 515",
+            "valor": 241.03
+          },
+          {
+            "descricao": "Item 361",
+            "valor": 497.15
+          }
+        ]
+      },
+      {
+        "modelo": "NFC",
+        "numero": "12-0004",
+        "valor": 2346.67,
+        "itens": [
+          {
+            "descricao": "Produto 474",
+            "valor": 69.0
+          },
+          {
+            "descricao": "Componente 506",
+            "valor": 344.89
+          },
+          {
+            "descricao": "Licença 147",
+            "valor": 389.61
+          },
+          {
+            "descricao": "Licença 381",
+            "valor": 267.38
+          },
+          {
+            "descricao": "Assinatura 222",
+            "valor": 434.2
+          },
+          {
+            "descricao": "Licença 914",
+            "valor": 77.4
+          },
+          {
+            "descricao": "Assinatura 724",
+            "valor": 296.41
+          },
+          {
+            "descricao": "Item 655",
+            "valor": 298.11
+          },
+          {
+            "descricao": "Serviço 414",
+            "valor": 169.67
+          }
+        ]
+      },
+      {
+        "modelo": "NFC",
+        "numero": "12-0005",
+        "valor": 2084.75,
+        "itens": [
+          {
+            "descricao": "Peça 094",
+            "valor": 466.43
+          },
+          {
+            "descricao": "Serviço 917",
+            "valor": 35.4
+          },
+          {
+            "descricao": "Assinatura 759",
+            "valor": 395.02
+          },
+          {
+            "descricao": "Peça 382",
+            "valor": 183.04
+          },
+          {
+            "descricao": "Peça 423",
+            "valor": 316.73
+          },
+          {
+            "descricao": "Produto 848",
+            "valor": 240.21
+          },
+          {
+            "descricao": "Pacote 162",
+            "valor": 447.92
+          }
+        ]
+      },
+      {
+        "modelo": "NF",
+        "numero": "12-0006",
+        "valor": 2424.25,
+        "itens": [
+          {
+            "descricao": "Peça 988",
+            "valor": 267.84
+          },
+          {
+            "descricao": "Peça 615",
+            "valor": 96.46
+          },
+          {
+            "descricao": "Peça 030",
+            "valor": 277.02
+          },
+          {
+            "descricao": "Item 328",
+            "valor": 180.89
+          },
+          {
+            "descricao": "Pacote 664",
+            "valor": 183.12
+          },
+          {
+            "descricao": "Item 138",
+            "valor": 465.94
+          },
+          {
+            "descricao": "Produto 347",
+            "valor": 498.39
+          },
+          {
+            "descricao": "Produto 032",
+            "valor": 454.59
+          }
+        ]
+      },
+      {
+        "modelo": "NF",
+        "numero": "12-0007",
+        "valor": 1961.34,
+        "itens": [
+          {
+            "descricao": "Componente 417",
+            "valor": 480.43
+          },
+          {
+            "descricao": "Licença 068",
+            "valor": 327.79
+          },
+          {
+            "descricao": "Pacote 945",
+            "valor": 460.0
+          },
+          {
+            "descricao": "Componente 444",
+            "valor": 480.96
+          },
+          {
+            "descricao": "Assinatura 319",
+            "valor": 212.16
+          }
+        ]
+      },
+      {
+        "modelo": "NFC",
+        "numero": "12-0008",
+        "valor": 2290.69,
+        "itens": [
+          {
+            "descricao": "Licença 744",
+            "valor": 180.8
+          },
+          {
+            "descricao": "Peça 097",
+            "valor": 467.74
+          },
+          {
+            "descricao": "Componente 705",
+            "valor": 474.31
+          },
+          {
+            "descricao": "Assinatura 001",
+            "valor": 182.57
+          },
+          {
+            "descricao": "Pacote 722",
+            "valor": 110.73
+          },
+          {
+            "descricao": "Licença 513",
+            "valor": 71.57
+          },
+          {
+            "descricao": "Peça 342",
+            "valor": 322.15
+          },
+          {
+            "descricao": "Licença 547",
+            "valor": 480.82
+          }
+        ]
+      },
+      {
+        "modelo": "NF",
+        "numero": "12-0009",
+        "valor": 1566.03,
+        "itens": [
+          {
+            "descricao": "Pacote 636",
+            "valor": 56.92
+          },
+          {
+            "descricao": "Pacote 030",
+            "valor": 381.65
+          },
+          {
+            "descricao": "Licença 409",
+            "valor": 180.81
+          },
+          {
+            "descricao": "Serviço 038",
+            "valor": 446.64
+          },
+          {
+            "descricao": "Serviço 291",
+            "valor": 72.39
+          },
+          {
+            "descricao": "Serviço 817",
+            "valor": 427.62
+          }
+        ]
+      },
+      {
+        "modelo": "NFS",
+        "numero": "12-0010",
+        "valor": 1464.25,
+        "itens": [
+          {
+            "descricao": "Pacote 163",
+            "valor": 200.3
+          },
+          {
+            "descricao": "Assinatura 880",
+            "valor": 216.88
+          },
+          {
+            "descricao": "Produto 376",
+            "valor": 479.64
+          },
+          {
+            "descricao": "Serviço 993",
+            "valor": 367.32
+          },
+          {
+            "descricao": "Produto 469",
+            "valor": 88.28
+          },
+          {
+            "descricao": "Pacote 670",
+            "valor": 111.83
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cnpj": "49.075.230/7334-16",
+    "nome": "Empresa Ficticia 13 LTDA",
+    "telefone": "(81) 97809-2039",
+    "documentos": [
+      {
+        "modelo": "NFC",
+        "numero": "13-0001",
+        "valor": 3650.71,
+        "itens": [
+          {
+            "descricao": "Pacote 431",
+            "valor": 267.86
+          },
+          {
+            "descricao": "Peça 328",
+            "valor": 281.9
+          },
+          {
+            "descricao": "Item 663",
+            "valor": 215.14
+          },
+          {
+            "descricao": "Assinatura 407",
+            "valor": 229.55
+          },
+          {
+            "descricao": "Peça 074",
+            "valor": 489.42
+          },
+          {
+            "descricao": "Peça 107",
+            "valor": 321.86
+          },
+          {
+            "descricao": "Pacote 640",
+            "valor": 497.7
+          },
+          {
+            "descricao": "Item 590",
+            "valor": 486.2
+          },
+          {
+            "descricao": "Peça 309",
+            "valor": 374.79
+          },
+          {
+            "descricao": "Pacote 225",
+            "valor": 486.29
+          }
+        ]
+      },
+      {
+        "modelo": "NFE",
+        "numero": "13-0002",
+        "valor": 1130.93,
+        "itens": [
+          {
+            "descricao": "Item 238",
+            "valor": 211.75
+          },
+          {
+            "descricao": "Pacote 470",
+            "valor": 74.88
+          },
+          {
+            "descricao": "Produto 677",
+            "valor": 137.19
+          },
+          {
+            "descricao": "Item 936",
+            "valor": 237.97
+          },
+          {
+            "descricao": "Assinatura 742",
+            "valor": 469.14
+          }
+        ]
+      },
+      {
+        "modelo": "NFC",
+        "numero": "13-0003",
+        "valor": 1377.89,
+        "itens": [
+          {
+            "descricao": "Componente 504",
+            "valor": 24.78
+          },
+          {
+            "descricao": "Serviço 491",
+            "valor": 393.25
+          },
+          {
+            "descricao": "Serviço 016",
+            "valor": 10.36
+          },
+          {
+            "descricao": "Pacote 039",
+            "valor": 481.77
+          },
+          {
+            "descricao": "Item 734",
+            "valor": 467.73
+          }
+        ]
+      },
+      {
+        "modelo": "CTRC",
+        "numero": "13-0004",
+        "valor": 1587.17,
+        "itens": [
+          {
+            "descricao": "Produto 592",
+            "valor": 462.63
+          },
+          {
+            "descricao": "Item 522",
+            "valor": 481.51
+          },
+          {
+            "descricao": "Assinatura 690",
+            "valor": 486.36
+          },
+          {
+            "descricao": "Produto 377",
+            "valor": 55.6
+          },
+          {
+            "descricao": "Licença 569",
+            "valor": 101.07
+          }
+        ]
+      },
+      {
+        "modelo": "CTRC",
+        "numero": "13-0005",
+        "valor": 1772.48,
+        "itens": [
+          {
+            "descricao": "Serviço 491",
+            "valor": 80.6
+          },
+          {
+            "descricao": "Item 665",
+            "valor": 227.84
+          },
+          {
+            "descricao": "Pacote 765",
+            "valor": 418.19
+          },
+          {
+            "descricao": "Produto 144",
+            "valor": 201.4
+          },
+          {
+            "descricao": "Licença 352",
+            "valor": 292.38
+          },
+          {
+            "descricao": "Peça 924",
+            "valor": 18.43
+          },
+          {
+            "descricao": "Serviço 747",
+            "valor": 153.33
+          },
+          {
+            "descricao": "Produto 522",
+            "valor": 380.31
+          }
+        ]
+      },
+      {
+        "modelo": "NFE",
+        "numero": "13-0006",
+        "valor": 1649.4,
+        "itens": [
+          {
+            "descricao": "Componente 018",
+            "valor": 23.24
+          },
+          {
+            "descricao": "Serviço 965",
+            "valor": 374.89
+          },
+          {
+            "descricao": "Produto 287",
+            "valor": 261.08
+          },
+          {
+            "descricao": "Componente 315",
+            "valor": 499.33
+          },
+          {
+            "descricao": "Assinatura 275",
+            "valor": 490.86
+          }
+        ]
+      },
+      {
+        "modelo": "NFS",
+        "numero": "13-0007",
+        "valor": 1968.19,
+        "itens": [
+          {
+            "descricao": "Peça 252",
+            "valor": 165.67
+          },
+          {
+            "descricao": "Licença 925",
+            "valor": 304.71
+          },
+          {
+            "descricao": "Produto 580",
+            "valor": 277.82
+          },
+          {
+            "descricao": "Licença 964",
+            "valor": 183.04
+          },
+          {
+            "descricao": "Licença 396",
+            "valor": 74.48
+          },
+          {
+            "descricao": "Produto 959",
+            "valor": 30.9
+          },
+          {
+            "descricao": "Assinatura 529",
+            "valor": 256.69
+          },
+          {
+            "descricao": "Produto 858",
+            "valor": 345.71
+          },
+          {
+            "descricao": "Produto 268",
+            "valor": 329.17
+          }
+        ]
+      },
+      {
+        "modelo": "NFC",
+        "numero": "13-0008",
+        "valor": 2999.73,
+        "itens": [
+          {
+            "descricao": "Pacote 406",
+            "valor": 283.1
+          },
+          {
+            "descricao": "Pacote 537",
+            "valor": 471.94
+          },
+          {
+            "descricao": "Licença 891",
+            "valor": 427.31
+          },
+          {
+            "descricao": "Pacote 161",
+            "valor": 408.64
+          },
+          {
+            "descricao": "Serviço 796",
+            "valor": 174.27
+          },
+          {
+            "descricao": "Produto 105",
+            "valor": 49.12
+          },
+          {
+            "descricao": "Serviço 630",
+            "valor": 288.87
+          },
+          {
+            "descricao": "Produto 293",
+            "valor": 449.13
+          },
+          {
+            "descricao": "Produto 400",
+            "valor": 447.35
+          }
+        ]
+      },
+      {
+        "modelo": "NFE",
+        "numero": "13-0009",
+        "valor": 1541.19,
+        "itens": [
+          {
+            "descricao": "Pacote 764",
+            "valor": 479.61
+          },
+          {
+            "descricao": "Licença 410",
+            "valor": 261.4
+          },
+          {
+            "descricao": "Serviço 568",
+            "valor": 16.57
+          },
+          {
+            "descricao": "Peça 380",
+            "valor": 54.19
+          },
+          {
+            "descricao": "Assinatura 014",
+            "valor": 316.72
+          },
+          {
+            "descricao": "Licença 286",
+            "valor": 412.7
+          }
+        ]
+      },
+      {
+        "modelo": "NFE",
+        "numero": "13-0010",
+        "valor": 2114.63,
+        "itens": [
+          {
+            "descricao": "Produto 214",
+            "valor": 205.53
+          },
+          {
+            "descricao": "Produto 786",
+            "valor": 459.97
+          },
+          {
+            "descricao": "Serviço 240",
+            "valor": 49.92
+          },
+          {
+            "descricao": "Assinatura 482",
+            "valor": 437.19
+          },
+          {
+            "descricao": "Produto 346",
+            "valor": 473.39
+          },
+          {
+            "descricao": "Licença 343",
+            "valor": 488.63
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cnpj": "63.740.364/8087-08",
+    "nome": "Empresa Ficticia 14 LTDA",
+    "telefone": "(15) 95862-2846",
+    "documentos": [
+      {
+        "modelo": "NFC",
+        "numero": "14-0001",
+        "valor": 2553.73,
+        "itens": [
+          {
+            "descricao": "Item 389",
+            "valor": 419.31
+          },
+          {
+            "descricao": "Assinatura 066",
+            "valor": 365.68
+          },
+          {
+            "descricao": "Serviço 694",
+            "valor": 305.84
+          },
+          {
+            "descricao": "Assinatura 242",
+            "valor": 362.25
+          },
+          {
+            "descricao": "Licença 972",
+            "valor": 302.38
+          },
+          {
+            "descricao": "Produto 625",
+            "valor": 191.34
+          },
+          {
+            "descricao": "Produto 825",
+            "valor": 345.32
+          },
+          {
+            "descricao": "Componente 903",
+            "valor": 261.61
+          }
+        ]
+      },
+      {
+        "modelo": "NF",
+        "numero": "14-0002",
+        "valor": 1315.4,
+        "itens": [
+          {
+            "descricao": "Pacote 741",
+            "valor": 90.24
+          },
+          {
+            "descricao": "Componente 581",
+            "valor": 278.53
+          },
+          {
+            "descricao": "Assinatura 097",
+            "valor": 127.32
+          },
+          {
+            "descricao": "Assinatura 478",
+            "valor": 472.39
+          },
+          {
+            "descricao": "Serviço 403",
+            "valor": 346.92
+          }
+        ]
+      },
+      {
+        "modelo": "NFC",
+        "numero": "14-0003",
+        "valor": 1249.46,
+        "itens": [
+          {
+            "descricao": "Serviço 718",
+            "valor": 58.98
+          },
+          {
+            "descricao": "Pacote 259",
+            "valor": 345.65
+          },
+          {
+            "descricao": "Serviço 796",
+            "valor": 307.16
+          },
+          {
+            "descricao": "Item 670",
+            "valor": 197.8
+          },
+          {
+            "descricao": "Licença 425",
+            "valor": 192.48
+          },
+          {
+            "descricao": "Assinatura 825",
+            "valor": 147.39
+          }
+        ]
+      },
+      {
+        "modelo": "NF",
+        "numero": "14-0004",
+        "valor": 1992.31,
+        "itens": [
+          {
+            "descricao": "Peça 553",
+            "valor": 90.79
+          },
+          {
+            "descricao": "Peça 549",
+            "valor": 307.21
+          },
+          {
+            "descricao": "Assinatura 213",
+            "valor": 176.04
+          },
+          {
+            "descricao": "Componente 688",
+            "valor": 355.77
+          },
+          {
+            "descricao": "Assinatura 853",
+            "valor": 191.45
+          },
+          {
+            "descricao": "Licença 079",
+            "valor": 364.69
+          },
+          {
+            "descricao": "Pacote 436",
+            "valor": 50.28
+          },
+          {
+            "descricao": "Peça 375",
+            "valor": 456.08
+          }
+        ]
+      },
+      {
+        "modelo": "NF",
+        "numero": "14-0005",
+        "valor": 1252.35,
+        "itens": [
+          {
+            "descricao": "Peça 470",
+            "valor": 25.05
+          },
+          {
+            "descricao": "Pacote 141",
+            "valor": 222.91
+          },
+          {
+            "descricao": "Peça 090",
+            "valor": 270.52
+          },
+          {
+            "descricao": "Produto 008",
+            "valor": 382.64
+          },
+          {
+            "descricao": "Licença 195",
+            "valor": 351.23
+          }
+        ]
+      },
+      {
+        "modelo": "CTRC",
+        "numero": "14-0006",
+        "valor": 2028.91,
+        "itens": [
+          {
+            "descricao": "Pacote 569",
+            "valor": 117.91
+          },
+          {
+            "descricao": "Item 376",
+            "valor": 151.63
+          },
+          {
+            "descricao": "Assinatura 973",
+            "valor": 468.98
+          },
+          {
+            "descricao": "Produto 663",
+            "valor": 150.95
+          },
+          {
+            "descricao": "Item 816",
+            "valor": 278.69
+          },
+          {
+            "descricao": "Item 714",
+            "valor": 367.88
+          },
+          {
+            "descricao": "Pacote 846",
+            "valor": 492.87
+          }
+        ]
+      },
+      {
+        "modelo": "NF",
+        "numero": "14-0007",
+        "valor": 2209.98,
+        "itens": [
+          {
+            "descricao": "Item 068",
+            "valor": 349.41
+          },
+          {
+            "descricao": "Assinatura 039",
+            "valor": 45.32
+          },
+          {
+            "descricao": "Item 859",
+            "valor": 419.14
+          },
+          {
+            "descricao": "Assinatura 297",
+            "valor": 399.75
+          },
+          {
+            "descricao": "Pacote 634",
+            "valor": 70.36
+          },
+          {
+            "descricao": "Componente 059",
+            "valor": 435.36
+          },
+          {
+            "descricao": "Componente 487",
+            "valor": 490.64
+          }
+        ]
+      },
+      {
+        "modelo": "NFC",
+        "numero": "14-0008",
+        "valor": 2019.28,
+        "itens": [
+          {
+            "descricao": "Produto 636",
+            "valor": 92.11
+          },
+          {
+            "descricao": "Assinatura 685",
+            "valor": 90.71
+          },
+          {
+            "descricao": "Item 288",
+            "valor": 235.33
+          },
+          {
+            "descricao": "Peça 794",
+            "valor": 308.58
+          },
+          {
+            "descricao": "Produto 589",
+            "valor": 356.41
+          },
+          {
+            "descricao": "Item 182",
+            "valor": 233.12
+          },
+          {
+            "descricao": "Peça 048",
+            "valor": 172.92
+          },
+          {
+            "descricao": "Serviço 995",
+            "valor": 128.24
+          },
+          {
+            "descricao": "Produto 716",
+            "valor": 401.86
+          }
+        ]
+      },
+      {
+        "modelo": "NFE",
+        "numero": "14-0009",
+        "valor": 2082.73,
+        "itens": [
+          {
+            "descricao": "Licença 182",
+            "valor": 300.43
+          },
+          {
+            "descricao": "Serviço 242",
+            "valor": 292.28
+          },
+          {
+            "descricao": "Peça 650",
+            "valor": 230.21
+          },
+          {
+            "descricao": "Licença 043",
+            "valor": 57.12
+          },
+          {
+            "descricao": "Licença 186",
+            "valor": 28.84
+          },
+          {
+            "descricao": "Assinatura 498",
+            "valor": 499.56
+          },
+          {
+            "descricao": "Item 586",
+            "valor": 233.64
+          },
+          {
+            "descricao": "Item 136",
+            "valor": 231.62
+          },
+          {
+            "descricao": "Pacote 252",
+            "valor": 209.03
+          }
+        ]
+      },
+      {
+        "modelo": "NFC",
+        "numero": "14-0010",
+        "valor": 2217.75,
+        "itens": [
+          {
+            "descricao": "Item 690",
+            "valor": 366.0
+          },
+          {
+            "descricao": "Licença 917",
+            "valor": 447.9
+          },
+          {
+            "descricao": "Componente 263",
+            "valor": 46.33
+          },
+          {
+            "descricao": "Peça 782",
+            "valor": 242.31
+          },
+          {
+            "descricao": "Licença 885",
+            "valor": 289.07
+          },
+          {
+            "descricao": "Assinatura 337",
+            "valor": 105.17
+          },
+          {
+            "descricao": "Pacote 835",
+            "valor": 334.81
+          },
+          {
+            "descricao": "Produto 471",
+            "valor": 195.28
+          },
+          {
+            "descricao": "Pacote 324",
+            "valor": 54.97
+          },
+          {
+            "descricao": "Licença 148",
+            "valor": 135.91
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cnpj": "65.050.167/1205-51",
+    "nome": "Empresa Ficticia 15 LTDA",
+    "telefone": "(80) 96670-7529",
+    "documentos": [
+      {
+        "modelo": "NFE",
+        "numero": "15-0001",
+        "valor": 1448.52,
+        "itens": [
+          {
+            "descricao": "Licença 058",
+            "valor": 261.24
+          },
+          {
+            "descricao": "Assinatura 962",
+            "valor": 67.6
+          },
+          {
+            "descricao": "Serviço 719",
+            "valor": 300.7
+          },
+          {
+            "descricao": "Licença 252",
+            "valor": 475.79
+          },
+          {
+            "descricao": "Licença 345",
+            "valor": 108.61
+          },
+          {
+            "descricao": "Item 195",
+            "valor": 10.23
+          },
+          {
+            "descricao": "Licença 659",
+            "valor": 224.35
+          }
+        ]
+      },
+      {
+        "modelo": "NFE",
+        "numero": "15-0002",
+        "valor": 2202.9,
+        "itens": [
+          {
+            "descricao": "Assinatura 440",
+            "valor": 217.79
+          },
+          {
+            "descricao": "Produto 913",
+            "valor": 309.87
+          },
+          {
+            "descricao": "Componente 903",
+            "valor": 319.28
+          },
+          {
+            "descricao": "Peça 281",
+            "valor": 65.37
+          },
+          {
+            "descricao": "Serviço 019",
+            "valor": 224.87
+          },
+          {
+            "descricao": "Licença 152",
+            "valor": 327.49
+          },
+          {
+            "descricao": "Componente 709",
+            "valor": 12.79
+          },
+          {
+            "descricao": "Componente 525",
+            "valor": 395.26
+          },
+          {
+            "descricao": "Peça 011",
+            "valor": 330.18
+          }
+        ]
+      },
+      {
+        "modelo": "NFE",
+        "numero": "15-0003",
+        "valor": 1699.89,
+        "itens": [
+          {
+            "descricao": "Pacote 232",
+            "valor": 480.47
+          },
+          {
+            "descricao": "Licença 674",
+            "valor": 247.23
+          },
+          {
+            "descricao": "Licença 428",
+            "valor": 50.13
+          },
+          {
+            "descricao": "Produto 796",
+            "valor": 103.54
+          },
+          {
+            "descricao": "Assinatura 710",
+            "valor": 27.3
+          },
+          {
+            "descricao": "Assinatura 675",
+            "valor": 93.21
+          },
+          {
+            "descricao": "Licença 537",
+            "valor": 291.76
+          },
+          {
+            "descricao": "Assinatura 226",
+            "valor": 263.15
+          },
+          {
+            "descricao": "Produto 466",
+            "valor": 64.51
+          },
+          {
+            "descricao": "Produto 483",
+            "valor": 78.59
+          }
+        ]
+      },
+      {
+        "modelo": "NFS",
+        "numero": "15-0004",
+        "valor": 2155.77,
+        "itens": [
+          {
+            "descricao": "Componente 132",
+            "valor": 233.82
+          },
+          {
+            "descricao": "Peça 682",
+            "valor": 169.31
+          },
+          {
+            "descricao": "Pacote 555",
+            "valor": 184.46
+          },
+          {
+            "descricao": "Item 943",
+            "valor": 375.42
+          },
+          {
+            "descricao": "Pacote 689",
+            "valor": 301.37
+          },
+          {
+            "descricao": "Componente 086",
+            "valor": 73.15
+          },
+          {
+            "descricao": "Licença 561",
+            "valor": 406.94
+          },
+          {
+            "descricao": "Peça 001",
+            "valor": 411.3
+          }
+        ]
+      },
+      {
+        "modelo": "NFE",
+        "numero": "15-0005",
+        "valor": 1844.35,
+        "itens": [
+          {
+            "descricao": "Assinatura 885",
+            "valor": 380.25
+          },
+          {
+            "descricao": "Item 314",
+            "valor": 153.07
+          },
+          {
+            "descricao": "Peça 328",
+            "valor": 287.06
+          },
+          {
+            "descricao": "Peça 473",
+            "valor": 111.66
+          },
+          {
+            "descricao": "Componente 231",
+            "valor": 22.69
+          },
+          {
+            "descricao": "Serviço 762",
+            "valor": 419.47
+          },
+          {
+            "descricao": "Produto 811",
+            "valor": 470.15
+          }
+        ]
+      },
+      {
+        "modelo": "CTRC",
+        "numero": "15-0006",
+        "valor": 1352.01,
+        "itens": [
+          {
+            "descricao": "Pacote 104",
+            "valor": 140.5
+          },
+          {
+            "descricao": "Assinatura 345",
+            "valor": 215.48
+          },
+          {
+            "descricao": "Componente 676",
+            "valor": 282.58
+          },
+          {
+            "descricao": "Licença 289",
+            "valor": 272.7
+          },
+          {
+            "descricao": "Licença 807",
+            "valor": 177.25
+          },
+          {
+            "descricao": "Item 828",
+            "valor": 174.86
+          },
+          {
+            "descricao": "Item 763",
+            "valor": 88.64
+          }
+        ]
+      },
+      {
+        "modelo": "CTRC",
+        "numero": "15-0007",
+        "valor": 2007.97,
+        "itens": [
+          {
+            "descricao": "Componente 336",
+            "valor": 227.46
+          },
+          {
+            "descricao": "Produto 965",
+            "valor": 185.23
+          },
+          {
+            "descricao": "Licença 804",
+            "valor": 187.58
+          },
+          {
+            "descricao": "Serviço 210",
+            "valor": 218.82
+          },
+          {
+            "descricao": "Serviço 747",
+            "valor": 125.12
+          },
+          {
+            "descricao": "Serviço 560",
+            "valor": 101.39
+          },
+          {
+            "descricao": "Item 242",
+            "valor": 484.54
+          },
+          {
+            "descricao": "Assinatura 060",
+            "valor": 162.83
+          },
+          {
+            "descricao": "Item 290",
+            "valor": 315.0
+          }
+        ]
+      },
+      {
+        "modelo": "NFC",
+        "numero": "15-0008",
+        "valor": 979.34,
+        "itens": [
+          {
+            "descricao": "Produto 586",
+            "valor": 236.34
+          },
+          {
+            "descricao": "Pacote 989",
+            "valor": 53.55
+          },
+          {
+            "descricao": "Item 542",
+            "valor": 85.74
+          },
+          {
+            "descricao": "Pacote 698",
+            "valor": 52.35
+          },
+          {
+            "descricao": "Peça 402",
+            "valor": 148.81
+          },
+          {
+            "descricao": "Item 522",
+            "valor": 402.55
+          }
+        ]
+      },
+      {
+        "modelo": "NF",
+        "numero": "15-0009",
+        "valor": 1666.61,
+        "itens": [
+          {
+            "descricao": "Pacote 222",
+            "valor": 107.34
+          },
+          {
+            "descricao": "Pacote 174",
+            "valor": 116.3
+          },
+          {
+            "descricao": "Item 202",
+            "valor": 139.95
+          },
+          {
+            "descricao": "Pacote 555",
+            "valor": 141.97
+          },
+          {
+            "descricao": "Peça 880",
+            "valor": 190.55
+          },
+          {
+            "descricao": "Assinatura 597",
+            "valor": 162.85
+          },
+          {
+            "descricao": "Pacote 110",
+            "valor": 310.64
+          },
+          {
+            "descricao": "Assinatura 521",
+            "valor": 497.01
+          }
+        ]
+      },
+      {
+        "modelo": "NFE",
+        "numero": "15-0010",
+        "valor": 1588.61,
+        "itens": [
+          {
+            "descricao": "Componente 295",
+            "valor": 52.54
+          },
+          {
+            "descricao": "Produto 987",
+            "valor": 213.71
+          },
+          {
+            "descricao": "Produto 648",
+            "valor": 458.16
+          },
+          {
+            "descricao": "Pacote 385",
+            "valor": 487.01
+          },
+          {
+            "descricao": "Licença 617",
+            "valor": 377.19
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cnpj": "92.866.125/7440-48",
+    "nome": "Empresa Ficticia 16 LTDA",
+    "telefone": "(65) 92850-9777",
+    "documentos": [
+      {
+        "modelo": "NFS",
+        "numero": "16-0001",
+        "valor": 2627.76,
+        "itens": [
+          {
+            "descricao": "Pacote 214",
+            "valor": 334.49
+          },
+          {
+            "descricao": "Pacote 359",
+            "valor": 315.2
+          },
+          {
+            "descricao": "Item 511",
+            "valor": 137.26
+          },
+          {
+            "descricao": "Serviço 980",
+            "valor": 303.8
+          },
+          {
+            "descricao": "Item 223",
+            "valor": 220.41
+          },
+          {
+            "descricao": "Componente 565",
+            "valor": 158.42
+          },
+          {
+            "descricao": "Assinatura 811",
+            "valor": 187.13
+          },
+          {
+            "descricao": "Assinatura 461",
+            "valor": 427.57
+          },
+          {
+            "descricao": "Licença 056",
+            "valor": 137.59
+          },
+          {
+            "descricao": "Licença 541",
+            "valor": 405.89
+          }
+        ]
+      },
+      {
+        "modelo": "NFS",
+        "numero": "16-0002",
+        "valor": 2116.8,
+        "itens": [
+          {
+            "descricao": "Peça 675",
+            "valor": 395.8
+          },
+          {
+            "descricao": "Componente 144",
+            "valor": 107.02
+          },
+          {
+            "descricao": "Peça 114",
+            "valor": 302.31
+          },
+          {
+            "descricao": "Assinatura 179",
+            "valor": 151.41
+          },
+          {
+            "descricao": "Peça 452",
+            "valor": 454.02
+          },
+          {
+            "descricao": "Peça 865",
+            "valor": 265.47
+          },
+          {
+            "descricao": "Produto 065",
+            "valor": 440.77
+          }
+        ]
+      },
+      {
+        "modelo": "NF",
+        "numero": "16-0003",
+        "valor": 2289.16,
+        "itens": [
+          {
+            "descricao": "Serviço 765",
+            "valor": 121.05
+          },
+          {
+            "descricao": "Licença 830",
+            "valor": 330.76
+          },
+          {
+            "descricao": "Componente 634",
+            "valor": 75.64
+          },
+          {
+            "descricao": "Serviço 000",
+            "valor": 211.73
+          },
+          {
+            "descricao": "Item 978",
+            "valor": 423.7
+          },
+          {
+            "descricao": "Peça 209",
+            "valor": 171.67
+          },
+          {
+            "descricao": "Item 433",
+            "valor": 466.34
+          },
+          {
+            "descricao": "Pacote 306",
+            "valor": 108.19
+          },
+          {
+            "descricao": "Componente 201",
+            "valor": 380.08
+          }
+        ]
+      },
+      {
+        "modelo": "NFE",
+        "numero": "16-0004",
+        "valor": 1678.52,
+        "itens": [
+          {
+            "descricao": "Serviço 279",
+            "valor": 134.05
+          },
+          {
+            "descricao": "Peça 121",
+            "valor": 471.92
+          },
+          {
+            "descricao": "Componente 796",
+            "valor": 87.34
+          },
+          {
+            "descricao": "Peça 007",
+            "valor": 253.55
+          },
+          {
+            "descricao": "Assinatura 135",
+            "valor": 347.41
+          },
+          {
+            "descricao": "Pacote 463",
+            "valor": 310.07
+          },
+          {
+            "descricao": "Produto 099",
+            "valor": 74.18
+          }
+        ]
+      },
+      {
+        "modelo": "CTRC",
+        "numero": "16-0005",
+        "valor": 2244.96,
+        "itens": [
+          {
+            "descricao": "Licença 961",
+            "valor": 356.14
+          },
+          {
+            "descricao": "Item 741",
+            "valor": 434.86
+          },
+          {
+            "descricao": "Serviço 477",
+            "valor": 251.99
+          },
+          {
+            "descricao": "Serviço 001",
+            "valor": 74.96
+          },
+          {
+            "descricao": "Componente 484",
+            "valor": 210.56
+          },
+          {
+            "descricao": "Serviço 226",
+            "valor": 92.28
+          },
+          {
+            "descricao": "Peça 296",
+            "valor": 160.65
+          },
+          {
+            "descricao": "Componente 261",
+            "valor": 147.3
+          },
+          {
+            "descricao": "Licença 170",
+            "valor": 32.95
+          },
+          {
+            "descricao": "Produto 010",
+            "valor": 483.27
+          }
+        ]
+      },
+      {
+        "modelo": "NFE",
+        "numero": "16-0006",
+        "valor": 1838.02,
+        "itens": [
+          {
+            "descricao": "Componente 745",
+            "valor": 224.04
+          },
+          {
+            "descricao": "Serviço 999",
+            "valor": 280.47
+          },
+          {
+            "descricao": "Componente 027",
+            "valor": 361.35
+          },
+          {
+            "descricao": "Serviço 268",
+            "valor": 442.26
+          },
+          {
+            "descricao": "Pacote 091",
+            "valor": 199.11
+          },
+          {
+            "descricao": "Componente 401",
+            "valor": 134.51
+          },
+          {
+            "descricao": "Item 237",
+            "valor": 196.28
+          }
+        ]
+      },
+      {
+        "modelo": "NFE",
+        "numero": "16-0007",
+        "valor": 1341.92,
+        "itens": [
+          {
+            "descricao": "Componente 326",
+            "valor": 280.32
+          },
+          {
+            "descricao": "Item 284",
+            "valor": 103.26
+          },
+          {
+            "descricao": "Produto 202",
+            "valor": 117.7
+          },
+          {
+            "descricao": "Componente 139",
+            "valor": 125.25
+          },
+          {
+            "descricao": "Serviço 119",
+            "valor": 244.7
+          },
+          {
+            "descricao": "Componente 015",
+            "valor": 470.69
+          }
+        ]
+      },
+      {
+        "modelo": "NFE",
+        "numero": "16-0008",
+        "valor": 1917.47,
+        "itens": [
+          {
+            "descricao": "Pacote 824",
+            "valor": 353.94
+          },
+          {
+            "descricao": "Serviço 357",
+            "valor": 330.74
+          },
+          {
+            "descricao": "Produto 098",
+            "valor": 104.74
+          },
+          {
+            "descricao": "Produto 688",
+            "valor": 151.24
+          },
+          {
+            "descricao": "Assinatura 386",
+            "valor": 15.49
+          },
+          {
+            "descricao": "Item 031",
+            "valor": 313.34
+          },
+          {
+            "descricao": "Serviço 312",
+            "valor": 215.62
+          },
+          {
+            "descricao": "Item 674",
+            "valor": 406.62
+          },
+          {
+            "descricao": "Componente 217",
+            "valor": 25.74
+          }
+        ]
+      },
+      {
+        "modelo": "NFE",
+        "numero": "16-0009",
+        "valor": 1422.06,
+        "itens": [
+          {
+            "descricao": "Peça 676",
+            "valor": 138.21
+          },
+          {
+            "descricao": "Peça 985",
+            "valor": 197.21
+          },
+          {
+            "descricao": "Licença 957",
+            "valor": 40.67
+          },
+          {
+            "descricao": "Licença 766",
+            "valor": 88.72
+          },
+          {
+            "descricao": "Assinatura 988",
+            "valor": 477.84
+          },
+          {
+            "descricao": "Licença 715",
+            "valor": 244.53
+          },
+          {
+            "descricao": "Item 057",
+            "valor": 234.88
+          }
+        ]
+      },
+      {
+        "modelo": "NFE",
+        "numero": "16-0010",
+        "valor": 2542.26,
+        "itens": [
+          {
+            "descricao": "Pacote 954",
+            "valor": 429.1
+          },
+          {
+            "descricao": "Pacote 165",
+            "valor": 493.18
+          },
+          {
+            "descricao": "Item 014",
+            "valor": 205.6
+          },
+          {
+            "descricao": "Produto 691",
+            "valor": 352.53
+          },
+          {
+            "descricao": "Produto 913",
+            "valor": 300.71
+          },
+          {
+            "descricao": "Item 817",
+            "valor": 471.86
+          },
+          {
+            "descricao": "Pacote 053",
+            "valor": 289.28
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cnpj": "59.143.659/9525-00",
+    "nome": "Empresa Ficticia 17 LTDA",
+    "telefone": "(36) 96469-1939",
+    "documentos": [
+      {
+        "modelo": "NF",
+        "numero": "17-0001",
+        "valor": 2064.76,
+        "itens": [
+          {
+            "descricao": "Serviço 761",
+            "valor": 337.67
+          },
+          {
+            "descricao": "Serviço 061",
+            "valor": 135.55
+          },
+          {
+            "descricao": "Assinatura 188",
+            "valor": 150.5
+          },
+          {
+            "descricao": "Assinatura 271",
+            "valor": 359.77
+          },
+          {
+            "descricao": "Serviço 944",
+            "valor": 85.67
+          },
+          {
+            "descricao": "Componente 070",
+            "valor": 472.69
+          },
+          {
+            "descricao": "Assinatura 030",
+            "valor": 365.61
+          },
+          {
+            "descricao": "Licença 978",
+            "valor": 157.3
+          }
+        ]
+      },
+      {
+        "modelo": "NFE",
+        "numero": "17-0002",
+        "valor": 1222.42,
+        "itens": [
+          {
+            "descricao": "Pacote 717",
+            "valor": 364.11
+          },
+          {
+            "descricao": "Peça 809",
+            "valor": 292.81
+          },
+          {
+            "descricao": "Assinatura 372",
+            "valor": 151.73
+          },
+          {
+            "descricao": "Peça 008",
+            "valor": 98.64
+          },
+          {
+            "descricao": "Componente 924",
+            "valor": 139.95
+          },
+          {
+            "descricao": "Componente 491",
+            "valor": 175.18
+          }
+        ]
+      },
+      {
+        "modelo": "NFS",
+        "numero": "17-0003",
+        "valor": 1941.21,
+        "itens": [
+          {
+            "descricao": "Pacote 698",
+            "valor": 281.09
+          },
+          {
+            "descricao": "Licença 822",
+            "valor": 330.81
+          },
+          {
+            "descricao": "Item 336",
+            "valor": 354.85
+          },
+          {
+            "descricao": "Componente 261",
+            "valor": 422.35
+          },
+          {
+            "descricao": "Produto 666",
+            "valor": 259.35
+          },
+          {
+            "descricao": "Licença 854",
+            "valor": 61.08
+          },
+          {
+            "descricao": "Peça 455",
+            "valor": 68.5
+          },
+          {
+            "descricao": "Produto 134",
+            "valor": 163.18
+          }
+        ]
+      },
+      {
+        "modelo": "NFS",
+        "numero": "17-0004",
+        "valor": 2190.63,
+        "itens": [
+          {
+            "descricao": "Componente 762",
+            "valor": 295.17
+          },
+          {
+            "descricao": "Licença 431",
+            "valor": 466.38
+          },
+          {
+            "descricao": "Produto 401",
+            "valor": 346.53
+          },
+          {
+            "descricao": "Peça 680",
+            "valor": 313.08
+          },
+          {
+            "descricao": "Peça 120",
+            "valor": 46.16
+          },
+          {
+            "descricao": "Licença 258",
+            "valor": 217.06
+          },
+          {
+            "descricao": "Pacote 871",
+            "valor": 347.6
+          },
+          {
+            "descricao": "Licença 855",
+            "valor": 158.65
+          }
+        ]
+      },
+      {
+        "modelo": "CTRC",
+        "numero": "17-0005",
+        "valor": 2698.01,
+        "itens": [
+          {
+            "descricao": "Produto 578",
+            "valor": 126.67
+          },
+          {
+            "descricao": "Assinatura 209",
+            "valor": 418.74
+          },
+          {
+            "descricao": "Assinatura 106",
+            "valor": 407.94
+          },
+          {
+            "descricao": "Peça 482",
+            "valor": 204.22
+          },
+          {
+            "descricao": "Componente 431",
+            "valor": 427.14
+          },
+          {
+            "descricao": "Produto 685",
+            "valor": 186.66
+          },
+          {
+            "descricao": "Pacote 310",
+            "valor": 187.15
+          },
+          {
+            "descricao": "Pacote 710",
+            "valor": 214.99
+          },
+          {
+            "descricao": "Pacote 285",
+            "valor": 44.25
+          },
+          {
+            "descricao": "Assinatura 039",
+            "valor": 480.25
+          }
+        ]
+      },
+      {
+        "modelo": "NF",
+        "numero": "17-0006",
+        "valor": 1304.68,
+        "itens": [
+          {
+            "descricao": "Serviço 655",
+            "valor": 147.96
+          },
+          {
+            "descricao": "Serviço 330",
+            "valor": 63.61
+          },
+          {
+            "descricao": "Assinatura 054",
+            "valor": 127.3
+          },
+          {
+            "descricao": "Item 519",
+            "valor": 53.29
+          },
+          {
+            "descricao": "Pacote 442",
+            "valor": 487.62
+          },
+          {
+            "descricao": "Licença 435",
+            "valor": 53.46
+          },
+          {
+            "descricao": "Assinatura 112",
+            "valor": 116.85
+          },
+          {
+            "descricao": "Licença 229",
+            "valor": 254.59
+          }
+        ]
+      },
+      {
+        "modelo": "NFS",
+        "numero": "17-0007",
+        "valor": 1890.24,
+        "itens": [
+          {
+            "descricao": "Serviço 111",
+            "valor": 323.5
+          },
+          {
+            "descricao": "Componente 786",
+            "valor": 214.06
+          },
+          {
+            "descricao": "Serviço 243",
+            "valor": 77.09
+          },
+          {
+            "descricao": "Licença 540",
+            "valor": 188.34
+          },
+          {
+            "descricao": "Serviço 407",
+            "valor": 320.21
+          },
+          {
+            "descricao": "Assinatura 028",
+            "valor": 452.92
+          },
+          {
+            "descricao": "Serviço 525",
+            "valor": 314.12
+          }
+        ]
+      },
+      {
+        "modelo": "NF",
+        "numero": "17-0008",
+        "valor": 3225.79,
+        "itens": [
+          {
+            "descricao": "Licença 789",
+            "valor": 427.72
+          },
+          {
+            "descricao": "Serviço 069",
+            "valor": 440.11
+          },
+          {
+            "descricao": "Produto 001",
+            "valor": 125.54
+          },
+          {
+            "descricao": "Peça 862",
+            "valor": 181.46
+          },
+          {
+            "descricao": "Serviço 302",
+            "valor": 232.07
+          },
+          {
+            "descricao": "Componente 563",
+            "valor": 499.02
+          },
+          {
+            "descricao": "Assinatura 121",
+            "valor": 145.12
+          },
+          {
+            "descricao": "Assinatura 938",
+            "valor": 439.42
+          },
+          {
+            "descricao": "Assinatura 175",
+            "valor": 413.92
+          },
+          {
+            "descricao": "Peça 156",
+            "valor": 321.41
+          }
+        ]
+      },
+      {
+        "modelo": "NF",
+        "numero": "17-0009",
+        "valor": 2510.46,
+        "itens": [
+          {
+            "descricao": "Produto 576",
+            "valor": 204.72
+          },
+          {
+            "descricao": "Pacote 031",
+            "valor": 406.95
+          },
+          {
+            "descricao": "Produto 870",
+            "valor": 338.51
+          },
+          {
+            "descricao": "Licença 261",
+            "valor": 20.09
+          },
+          {
+            "descricao": "Produto 685",
+            "valor": 498.54
+          },
+          {
+            "descricao": "Peça 514",
+            "valor": 446.76
+          },
+          {
+            "descricao": "Peça 684",
+            "valor": 211.42
+          },
+          {
+            "descricao": "Peça 032",
+            "valor": 75.0
+          },
+          {
+            "descricao": "Licença 782",
+            "valor": 308.47
+          }
+        ]
+      },
+      {
+        "modelo": "NF",
+        "numero": "17-0010",
+        "valor": 2069.17,
+        "itens": [
+          {
+            "descricao": "Assinatura 277",
+            "valor": 226.98
+          },
+          {
+            "descricao": "Produto 400",
+            "valor": 175.02
+          },
+          {
+            "descricao": "Item 959",
+            "valor": 460.24
+          },
+          {
+            "descricao": "Licença 862",
+            "valor": 224.75
+          },
+          {
+            "descricao": "Licença 576",
+            "valor": 104.82
+          },
+          {
+            "descricao": "Peça 785",
+            "valor": 489.86
+          },
+          {
+            "descricao": "Item 852",
+            "valor": 387.5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cnpj": "89.236.943/3587-47",
+    "nome": "Empresa Ficticia 18 LTDA",
+    "telefone": "(20) 93611-7174",
+    "documentos": [
+      {
+        "modelo": "NFC",
+        "numero": "18-0001",
+        "valor": 2351.27,
+        "itens": [
+          {
+            "descricao": "Componente 972",
+            "valor": 229.56
+          },
+          {
+            "descricao": "Assinatura 204",
+            "valor": 480.06
+          },
+          {
+            "descricao": "Componente 991",
+            "valor": 270.67
+          },
+          {
+            "descricao": "Serviço 261",
+            "valor": 71.27
+          },
+          {
+            "descricao": "Peça 218",
+            "valor": 412.88
+          },
+          {
+            "descricao": "Componente 442",
+            "valor": 391.61
+          },
+          {
+            "descricao": "Pacote 691",
+            "valor": 65.01
+          },
+          {
+            "descricao": "Componente 185",
+            "valor": 430.21
+          }
+        ]
+      },
+      {
+        "modelo": "NFS",
+        "numero": "18-0002",
+        "valor": 1446.9,
+        "itens": [
+          {
+            "descricao": "Item 527",
+            "valor": 72.65
+          },
+          {
+            "descricao": "Licença 744",
+            "valor": 195.03
+          },
+          {
+            "descricao": "Licença 243",
+            "valor": 145.88
+          },
+          {
+            "descricao": "Produto 510",
+            "valor": 494.46
+          },
+          {
+            "descricao": "Item 362",
+            "valor": 239.27
+          },
+          {
+            "descricao": "Componente 920",
+            "valor": 205.87
+          },
+          {
+            "descricao": "Assinatura 994",
+            "valor": 93.74
+          }
+        ]
+      },
+      {
+        "modelo": "CTRC",
+        "numero": "18-0003",
+        "valor": 1608.63,
+        "itens": [
+          {
+            "descricao": "Item 713",
+            "valor": 169.61
+          },
+          {
+            "descricao": "Pacote 935",
+            "valor": 378.49
+          },
+          {
+            "descricao": "Componente 302",
+            "valor": 238.86
+          },
+          {
+            "descricao": "Serviço 147",
+            "valor": 391.7
+          },
+          {
+            "descricao": "Assinatura 766",
+            "valor": 85.51
+          },
+          {
+            "descricao": "Serviço 728",
+            "valor": 70.34
+          },
+          {
+            "descricao": "Componente 469",
+            "valor": 73.53
+          },
+          {
+            "descricao": "Peça 706",
+            "valor": 200.59
+          }
+        ]
+      },
+      {
+        "modelo": "NFC",
+        "numero": "18-0004",
+        "valor": 1060.72,
+        "itens": [
+          {
+            "descricao": "Peça 855",
+            "valor": 434.63
+          },
+          {
+            "descricao": "Produto 678",
+            "valor": 198.65
+          },
+          {
+            "descricao": "Licença 845",
+            "valor": 163.47
+          },
+          {
+            "descricao": "Licença 597",
+            "valor": 29.53
+          },
+          {
+            "descricao": "Componente 547",
+            "valor": 234.44
+          }
+        ]
+      },
+      {
+        "modelo": "NFE",
+        "numero": "18-0005",
+        "valor": 1817.71,
+        "itens": [
+          {
+            "descricao": "Item 720",
+            "valor": 52.45
+          },
+          {
+            "descricao": "Pacote 520",
+            "valor": 385.51
+          },
+          {
+            "descricao": "Licença 391",
+            "valor": 476.21
+          },
+          {
+            "descricao": "Produto 698",
+            "valor": 56.53
+          },
+          {
+            "descricao": "Item 460",
+            "valor": 254.73
+          },
+          {
+            "descricao": "Componente 891",
+            "valor": 460.76
+          },
+          {
+            "descricao": "Peça 611",
+            "valor": 86.55
+          },
+          {
+            "descricao": "Pacote 667",
+            "valor": 44.97
+          }
+        ]
+      },
+      {
+        "modelo": "NFE",
+        "numero": "18-0006",
+        "valor": 1334.57,
+        "itens": [
+          {
+            "descricao": "Serviço 961",
+            "valor": 191.76
+          },
+          {
+            "descricao": "Pacote 561",
+            "valor": 157.2
+          },
+          {
+            "descricao": "Assinatura 870",
+            "valor": 388.84
+          },
+          {
+            "descricao": "Pacote 474",
+            "valor": 204.22
+          },
+          {
+            "descricao": "Licença 687",
+            "valor": 392.55
+          }
+        ]
+      },
+      {
+        "modelo": "NFS",
+        "numero": "18-0007",
+        "valor": 2187.91,
+        "itens": [
+          {
+            "descricao": "Pacote 977",
+            "valor": 86.4
+          },
+          {
+            "descricao": "Serviço 464",
+            "valor": 443.72
+          },
+          {
+            "descricao": "Componente 590",
+            "valor": 203.86
+          },
+          {
+            "descricao": "Assinatura 108",
+            "valor": 398.01
+          },
+          {
+            "descricao": "Peça 720",
+            "valor": 407.77
+          },
+          {
+            "descricao": "Assinatura 298",
+            "valor": 465.69
+          },
+          {
+            "descricao": "Licença 993",
+            "valor": 182.46
+          }
+        ]
+      },
+      {
+        "modelo": "NFE",
+        "numero": "18-0008",
+        "valor": 920.77,
+        "itens": [
+          {
+            "descricao": "Pacote 219",
+            "valor": 460.18
+          },
+          {
+            "descricao": "Produto 613",
+            "valor": 43.92
+          },
+          {
+            "descricao": "Peça 214",
+            "valor": 36.72
+          },
+          {
+            "descricao": "Pacote 947",
+            "valor": 13.57
+          },
+          {
+            "descricao": "Produto 375",
+            "valor": 366.38
+          }
+        ]
+      },
+      {
+        "modelo": "CTRC",
+        "numero": "18-0009",
+        "valor": 1619.15,
+        "itens": [
+          {
+            "descricao": "Assinatura 254",
+            "valor": 153.54
+          },
+          {
+            "descricao": "Componente 564",
+            "valor": 186.15
+          },
+          {
+            "descricao": "Pacote 442",
+            "valor": 105.13
+          },
+          {
+            "descricao": "Componente 589",
+            "valor": 242.15
+          },
+          {
+            "descricao": "Assinatura 620",
+            "valor": 446.1
+          },
+          {
+            "descricao": "Serviço 134",
+            "valor": 486.08
+          }
+        ]
+      },
+      {
+        "modelo": "NFS",
+        "numero": "18-0010",
+        "valor": 2837.32,
+        "itens": [
+          {
+            "descricao": "Assinatura 142",
+            "valor": 390.47
+          },
+          {
+            "descricao": "Serviço 831",
+            "valor": 479.63
+          },
+          {
+            "descricao": "Pacote 914",
+            "valor": 411.02
+          },
+          {
+            "descricao": "Assinatura 125",
+            "valor": 47.7
+          },
+          {
+            "descricao": "Produto 723",
+            "valor": 112.0
+          },
+          {
+            "descricao": "Pacote 287",
+            "valor": 427.57
+          },
+          {
+            "descricao": "Componente 319",
+            "valor": 85.17
+          },
+          {
+            "descricao": "Licença 252",
+            "valor": 272.62
+          },
+          {
+            "descricao": "Componente 033",
+            "valor": 146.37
+          },
+          {
+            "descricao": "Produto 274",
+            "valor": 464.77
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cnpj": "60.555.129/9687-63",
+    "nome": "Empresa Ficticia 19 LTDA",
+    "telefone": "(09) 98307-2898",
+    "documentos": [
+      {
+        "modelo": "NF",
+        "numero": "19-0001",
+        "valor": 2529.0,
+        "itens": [
+          {
+            "descricao": "Componente 422",
+            "valor": 470.27
+          },
+          {
+            "descricao": "Item 547",
+            "valor": 394.14
+          },
+          {
+            "descricao": "Produto 198",
+            "valor": 236.25
+          },
+          {
+            "descricao": "Produto 502",
+            "valor": 67.3
+          },
+          {
+            "descricao": "Peça 068",
+            "valor": 288.96
+          },
+          {
+            "descricao": "Peça 734",
+            "valor": 480.2
+          },
+          {
+            "descricao": "Item 710",
+            "valor": 81.55
+          },
+          {
+            "descricao": "Serviço 083",
+            "valor": 456.2
+          },
+          {
+            "descricao": "Item 104",
+            "valor": 33.68
+          },
+          {
+            "descricao": "Pacote 092",
+            "valor": 20.45
+          }
+        ]
+      },
+      {
+        "modelo": "NFE",
+        "numero": "19-0002",
+        "valor": 1062.51,
+        "itens": [
+          {
+            "descricao": "Componente 250",
+            "valor": 86.62
+          },
+          {
+            "descricao": "Pacote 560",
+            "valor": 284.18
+          },
+          {
+            "descricao": "Licença 269",
+            "valor": 214.15
+          },
+          {
+            "descricao": "Assinatura 841",
+            "valor": 38.89
+          },
+          {
+            "descricao": "Assinatura 135",
+            "valor": 362.02
+          },
+          {
+            "descricao": "Componente 291",
+            "valor": 49.33
+          },
+          {
+            "descricao": "Item 333",
+            "valor": 27.32
+          }
+        ]
+      },
+      {
+        "modelo": "NFE",
+        "numero": "19-0003",
+        "valor": 2009.37,
+        "itens": [
+          {
+            "descricao": "Licença 423",
+            "valor": 196.38
+          },
+          {
+            "descricao": "Componente 594",
+            "valor": 467.96
+          },
+          {
+            "descricao": "Licença 238",
+            "valor": 77.65
+          },
+          {
+            "descricao": "Assinatura 679",
+            "valor": 152.67
+          },
+          {
+            "descricao": "Assinatura 002",
+            "valor": 436.97
+          },
+          {
+            "descricao": "Produto 179",
+            "valor": 244.16
+          },
+          {
+            "descricao": "Item 328",
+            "valor": 377.39
+          },
+          {
+            "descricao": "Serviço 708",
+            "valor": 56.19
+          }
+        ]
+      },
+      {
+        "modelo": "NFS",
+        "numero": "19-0004",
+        "valor": 2536.05,
+        "itens": [
+          {
+            "descricao": "Serviço 348",
+            "valor": 75.39
+          },
+          {
+            "descricao": "Componente 289",
+            "valor": 478.01
+          },
+          {
+            "descricao": "Peça 365",
+            "valor": 342.46
+          },
+          {
+            "descricao": "Serviço 002",
+            "valor": 188.1
+          },
+          {
+            "descricao": "Pacote 297",
+            "valor": 167.66
+          },
+          {
+            "descricao": "Componente 920",
+            "valor": 319.0
+          },
+          {
+            "descricao": "Componente 188",
+            "valor": 450.87
+          },
+          {
+            "descricao": "Item 789",
+            "valor": 84.41
+          },
+          {
+            "descricao": "Produto 777",
+            "valor": 430.15
+          }
+        ]
+      },
+      {
+        "modelo": "CTRC",
+        "numero": "19-0005",
+        "valor": 1999.36,
+        "itens": [
+          {
+            "descricao": "Serviço 049",
+            "valor": 319.89
+          },
+          {
+            "descricao": "Peça 698",
+            "valor": 239.08
+          },
+          {
+            "descricao": "Componente 969",
+            "valor": 484.92
+          },
+          {
+            "descricao": "Licença 829",
+            "valor": 287.35
+          },
+          {
+            "descricao": "Pacote 681",
+            "valor": 415.84
+          },
+          {
+            "descricao": "Assinatura 576",
+            "valor": 252.28
+          }
+        ]
+      },
+      {
+        "modelo": "CTRC",
+        "numero": "19-0006",
+        "valor": 1407.39,
+        "itens": [
+          {
+            "descricao": "Pacote 671",
+            "valor": 354.77
+          },
+          {
+            "descricao": "Licença 731",
+            "valor": 432.83
+          },
+          {
+            "descricao": "Item 270",
+            "valor": 308.35
+          },
+          {
+            "descricao": "Peça 863",
+            "valor": 39.89
+          },
+          {
+            "descricao": "Pacote 940",
+            "valor": 77.28
+          },
+          {
+            "descricao": "Pacote 613",
+            "valor": 194.27
+          }
+        ]
+      },
+      {
+        "modelo": "NF",
+        "numero": "19-0007",
+        "valor": 1448.65,
+        "itens": [
+          {
+            "descricao": "Pacote 817",
+            "valor": 306.63
+          },
+          {
+            "descricao": "Licença 810",
+            "valor": 362.49
+          },
+          {
+            "descricao": "Assinatura 988",
+            "valor": 158.05
+          },
+          {
+            "descricao": "Peça 735",
+            "valor": 261.11
+          },
+          {
+            "descricao": "Pacote 000",
+            "valor": 360.37
+          }
+        ]
+      },
+      {
+        "modelo": "NFC",
+        "numero": "19-0008",
+        "valor": 2934.79,
+        "itens": [
+          {
+            "descricao": "Peça 429",
+            "valor": 435.62
+          },
+          {
+            "descricao": "Pacote 614",
+            "valor": 476.38
+          },
+          {
+            "descricao": "Item 562",
+            "valor": 450.6
+          },
+          {
+            "descricao": "Produto 678",
+            "valor": 227.33
+          },
+          {
+            "descricao": "Produto 122",
+            "valor": 339.11
+          },
+          {
+            "descricao": "Licença 209",
+            "valor": 145.71
+          },
+          {
+            "descricao": "Serviço 978",
+            "valor": 88.99
+          },
+          {
+            "descricao": "Licença 343",
+            "valor": 116.56
+          },
+          {
+            "descricao": "Assinatura 842",
+            "valor": 282.72
+          },
+          {
+            "descricao": "Produto 030",
+            "valor": 371.77
+          }
+        ]
+      },
+      {
+        "modelo": "NFS",
+        "numero": "19-0009",
+        "valor": 2176.91,
+        "itens": [
+          {
+            "descricao": "Item 710",
+            "valor": 216.99
+          },
+          {
+            "descricao": "Item 217",
+            "valor": 42.27
+          },
+          {
+            "descricao": "Serviço 166",
+            "valor": 31.19
+          },
+          {
+            "descricao": "Licença 629",
+            "valor": 497.99
+          },
+          {
+            "descricao": "Assinatura 057",
+            "valor": 225.31
+          },
+          {
+            "descricao": "Serviço 992",
+            "valor": 143.69
+          },
+          {
+            "descricao": "Item 806",
+            "valor": 375.02
+          },
+          {
+            "descricao": "Componente 492",
+            "valor": 188.6
+          },
+          {
+            "descricao": "Produto 684",
+            "valor": 455.85
+          }
+        ]
+      },
+      {
+        "modelo": "CTRC",
+        "numero": "19-0010",
+        "valor": 2676.54,
+        "itens": [
+          {
+            "descricao": "Pacote 750",
+            "valor": 272.38
+          },
+          {
+            "descricao": "Item 755",
+            "valor": 177.52
+          },
+          {
+            "descricao": "Componente 029",
+            "valor": 234.87
+          },
+          {
+            "descricao": "Assinatura 213",
+            "valor": 103.65
+          },
+          {
+            "descricao": "Peça 737",
+            "valor": 275.33
+          },
+          {
+            "descricao": "Item 709",
+            "valor": 381.72
+          },
+          {
+            "descricao": "Item 838",
+            "valor": 350.39
+          },
+          {
+            "descricao": "Componente 409",
+            "valor": 486.75
+          },
+          {
+            "descricao": "Assinatura 919",
+            "valor": 101.4
+          },
+          {
+            "descricao": "Pacote 364",
+            "valor": 292.53
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "cnpj": "48.035.497/4470-61",
+    "nome": "Empresa Ficticia 20 LTDA",
+    "telefone": "(66) 96378-7928",
+    "documentos": [
+      {
+        "modelo": "NF",
+        "numero": "20-0001",
+        "valor": 1652.05,
+        "itens": [
+          {
+            "descricao": "Pacote 021",
+            "valor": 28.78
+          },
+          {
+            "descricao": "Serviço 316",
+            "valor": 174.79
+          },
+          {
+            "descricao": "Produto 825",
+            "valor": 127.81
+          },
+          {
+            "descricao": "Item 206",
+            "valor": 423.02
+          },
+          {
+            "descricao": "Pacote 958",
+            "valor": 426.04
+          },
+          {
+            "descricao": "Peça 407",
+            "valor": 471.61
+          }
+        ]
+      },
+      {
+        "modelo": "NFC",
+        "numero": "20-0002",
+        "valor": 1539.18,
+        "itens": [
+          {
+            "descricao": "Componente 826",
+            "valor": 12.49
+          },
+          {
+            "descricao": "Item 719",
+            "valor": 46.95
+          },
+          {
+            "descricao": "Pacote 152",
+            "valor": 90.63
+          },
+          {
+            "descricao": "Produto 479",
+            "valor": 458.18
+          },
+          {
+            "descricao": "Produto 304",
+            "valor": 158.05
+          },
+          {
+            "descricao": "Serviço 597",
+            "valor": 353.92
+          },
+          {
+            "descricao": "Item 179",
+            "valor": 344.55
+          },
+          {
+            "descricao": "Licença 578",
+            "valor": 74.41
+          }
+        ]
+      },
+      {
+        "modelo": "NF",
+        "numero": "20-0003",
+        "valor": 2561.08,
+        "itens": [
+          {
+            "descricao": "Componente 394",
+            "valor": 265.39
+          },
+          {
+            "descricao": "Assinatura 217",
+            "valor": 59.65
+          },
+          {
+            "descricao": "Peça 306",
+            "valor": 243.47
+          },
+          {
+            "descricao": "Serviço 777",
+            "valor": 371.1
+          },
+          {
+            "descricao": "Licença 115",
+            "valor": 250.18
+          },
+          {
+            "descricao": "Produto 720",
+            "valor": 481.9
+          },
+          {
+            "descricao": "Item 579",
+            "valor": 289.65
+          },
+          {
+            "descricao": "Licença 781",
+            "valor": 476.5
+          },
+          {
+            "descricao": "Item 064",
+            "valor": 123.24
+          }
+        ]
+      },
+      {
+        "modelo": "NFC",
+        "numero": "20-0004",
+        "valor": 2714.39,
+        "itens": [
+          {
+            "descricao": "Produto 482",
+            "valor": 201.32
+          },
+          {
+            "descricao": "Item 653",
+            "valor": 265.68
+          },
+          {
+            "descricao": "Licença 619",
+            "valor": 372.67
+          },
+          {
+            "descricao": "Serviço 138",
+            "valor": 262.88
+          },
+          {
+            "descricao": "Produto 651",
+            "valor": 305.8
+          },
+          {
+            "descricao": "Item 079",
+            "valor": 59.31
+          },
+          {
+            "descricao": "Serviço 844",
+            "valor": 87.3
+          },
+          {
+            "descricao": "Licença 348",
+            "valor": 468.77
+          },
+          {
+            "descricao": "Licença 603",
+            "valor": 341.34
+          },
+          {
+            "descricao": "Serviço 909",
+            "valor": 349.32
+          }
+        ]
+      },
+      {
+        "modelo": "NFE",
+        "numero": "20-0005",
+        "valor": 1177.3,
+        "itens": [
+          {
+            "descricao": "Produto 016",
+            "valor": 384.44
+          },
+          {
+            "descricao": "Assinatura 969",
+            "valor": 156.38
+          },
+          {
+            "descricao": "Serviço 988",
+            "valor": 268.99
+          },
+          {
+            "descricao": "Serviço 086",
+            "valor": 152.89
+          },
+          {
+            "descricao": "Produto 920",
+            "valor": 214.6
+          }
+        ]
+      },
+      {
+        "modelo": "NFE",
+        "numero": "20-0006",
+        "valor": 1737.55,
+        "itens": [
+          {
+            "descricao": "Produto 963",
+            "valor": 39.78
+          },
+          {
+            "descricao": "Peça 874",
+            "valor": 236.63
+          },
+          {
+            "descricao": "Assinatura 289",
+            "valor": 486.59
+          },
+          {
+            "descricao": "Produto 134",
+            "valor": 81.13
+          },
+          {
+            "descricao": "Item 834",
+            "valor": 119.08
+          },
+          {
+            "descricao": "Componente 558",
+            "valor": 265.69
+          },
+          {
+            "descricao": "Licença 326",
+            "valor": 109.12
+          },
+          {
+            "descricao": "Serviço 760",
+            "valor": 399.53
+          }
+        ]
+      },
+      {
+        "modelo": "CTRC",
+        "numero": "20-0007",
+        "valor": 2709.91,
+        "itens": [
+          {
+            "descricao": "Item 932",
+            "valor": 413.23
+          },
+          {
+            "descricao": "Produto 790",
+            "valor": 404.28
+          },
+          {
+            "descricao": "Componente 517",
+            "valor": 476.82
+          },
+          {
+            "descricao": "Pacote 426",
+            "valor": 69.17
+          },
+          {
+            "descricao": "Licença 768",
+            "valor": 267.64
+          },
+          {
+            "descricao": "Peça 732",
+            "valor": 115.23
+          },
+          {
+            "descricao": "Serviço 878",
+            "valor": 458.33
+          },
+          {
+            "descricao": "Componente 110",
+            "valor": 118.77
+          },
+          {
+            "descricao": "Assinatura 498",
+            "valor": 386.44
+          }
+        ]
+      },
+      {
+        "modelo": "CTRC",
+        "numero": "20-0008",
+        "valor": 1737.99,
+        "itens": [
+          {
+            "descricao": "Item 543",
+            "valor": 198.18
+          },
+          {
+            "descricao": "Componente 419",
+            "valor": 405.4
+          },
+          {
+            "descricao": "Produto 103",
+            "valor": 293.42
+          },
+          {
+            "descricao": "Produto 339",
+            "valor": 75.58
+          },
+          {
+            "descricao": "Produto 386",
+            "valor": 106.72
+          },
+          {
+            "descricao": "Peça 354",
+            "valor": 459.19
+          },
+          {
+            "descricao": "Assinatura 927",
+            "valor": 199.5
+          }
+        ]
+      },
+      {
+        "modelo": "NFE",
+        "numero": "20-0009",
+        "valor": 1162.81,
+        "itens": [
+          {
+            "descricao": "Serviço 687",
+            "valor": 44.5
+          },
+          {
+            "descricao": "Assinatura 604",
+            "valor": 70.99
+          },
+          {
+            "descricao": "Pacote 383",
+            "valor": 112.45
+          },
+          {
+            "descricao": "Produto 476",
+            "valor": 114.6
+          },
+          {
+            "descricao": "Assinatura 002",
+            "valor": 86.58
+          },
+          {
+            "descricao": "Pacote 581",
+            "valor": 391.73
+          },
+          {
+            "descricao": "Pacote 136",
+            "valor": 273.91
+          },
+          {
+            "descricao": "Produto 935",
+            "valor": 68.05
+          }
+        ]
+      },
+      {
+        "modelo": "CTRC",
+        "numero": "20-0010",
+        "valor": 3148.47,
+        "itens": [
+          {
+            "descricao": "Produto 865",
+            "valor": 218.21
+          },
+          {
+            "descricao": "Componente 508",
+            "valor": 317.37
+          },
+          {
+            "descricao": "Produto 024",
+            "valor": 202.87
+          },
+          {
+            "descricao": "Item 178",
+            "valor": 436.35
+          },
+          {
+            "descricao": "Componente 874",
+            "valor": 404.8
+          },
+          {
+            "descricao": "Peça 249",
+            "valor": 413.12
+          },
+          {
+            "descricao": "Assinatura 349",
+            "valor": 383.24
+          },
+          {
+            "descricao": "Pacote 066",
+            "valor": 24.28
+          },
+          {
+            "descricao": "Assinatura 082",
+            "valor": 477.41
+          },
+          {
+            "descricao": "Componente 673",
+            "valor": 270.82
+          }
+        ]
+      }
+    ]
+  }
+]
