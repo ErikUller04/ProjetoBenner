@@ -1,26 +1,15 @@
-# Project Empty Template
+# Projeto de teste para Benner
 
-Este é um repositório de exemplo para você começar a desenvolver a questão, leia com atenção os requisitos do enunciado da questão na plataforma e seguia as boas práticas sobre como utilizar este repositório.
+Este é o repositório do meu projeto para o teste de Desenvolvedor Junior ERP na Benner.
 
+O programa oferece 3 opções via uma aplicação console, são elas:
+- Salvar diretório de entrada de dados;
+- Salvar diretório de saída;
+- Gerar arquivo texto com o formato esperado de acordo com a versão do laioute escolhida (1 ou 2).
 
-## Readme do Repositório
-
-- Deve conter o título do projeto
-- Uma descrição sobre o projeto em frase
-- Deve conter uma lista com linguagem, framework e/ou tecnologias usadas
-- Como instalar e usar o projeto (instruções)
-- Não esqueça o [.gitignore](https://www.toptal.com/developers/gitignore)
-- Se está usando github pessoal, referencie que é um challenge by coodesh:  
+Para testar o projeto:
+- Clone o repositório;
+- Compile e rode o programa;
+- Teste as opções disponíveis.
 
 >  This is a challenge by [Coodesh](https://coodesh.com/)
-
-## Finalização e Instruções para a Apresentação
-
-1. Adicione o link do repositório com a sua solução na questão na plataforma
-2. Verifique se o Readme está bom e faça o commit final em seu repositório;
-3. Envie e aguarde as instruções para seguir. Caso o teste tenha apresentação de vídeo, dentro da tela de entrega será possível gravar após adicionar o link do repositório. Sucesso e boa sorte. =)
-
-
-## Suporte
-
-Para tirar dúvidas sobre o processo envie uma mensagem diretamente a um especialista no chat da plataforma. 

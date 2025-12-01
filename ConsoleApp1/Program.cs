@@ -5,13 +5,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+using Utils.ConsoleUtils;
+
 namespace ConsoleApp1
 {
     public class Program
     {
         static void Main(string[] args)
         {
-            MainConsole.Run();
+            ConsoleUtils.Run();
         }
     }
 }

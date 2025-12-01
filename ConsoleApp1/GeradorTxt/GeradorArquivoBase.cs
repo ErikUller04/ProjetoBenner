@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Globalization;
 using System.IO;
 using System.Text;
+using static Models.Entitys.Json.Data;
 
 namespace GeradorTxt
 {
@@ -13,23 +14,35 @@ namespace GeradorTxt
     /// </summary>
     public class GeradorArquivoBase
     {
-        public void Gerar(List<Empresa> empresas, string outputPath)
+        public virtual void Gerar(List<Empresa> empresas, string outputPath)
         {
+            int empresaCount = 0, docCount = 0, itemCount = 0;
+
             var sb = new StringBuilder();
             foreach (var emp in empresas)
             {
                 EscreverTipo00(sb, emp);
+                empresaCount++;
+
                 foreach (var doc in emp.Documentos)
                 {
                     EscreverTipo01(sb, doc);
+                    docCount++;
+
                     foreach (var item in doc.Itens)
                     {
                         EscreverTipo02(sb, item);
+                        itemCount++;
                     }
                 }
             }
+            sb.AppendLine()
+            .Append("09|QUANTIDADE_LINHAS_TIPO_00: " + empresaCount).AppendLine()
+            .Append("09|QUANTIDADE_LINHAS_TIPO_01: " + docCount).AppendLine()
+            .Append("09|QUANTIDADE_LINHAS_TIPO_02: " + itemCount).AppendLine();
+
             File.WriteAllText(outputPath, sb.ToString(), Encoding.UTF8);
-        }
+        } 
 
         protected string ToMoney(decimal val)
         {
@@ -55,7 +68,7 @@ namespace GeradorTxt
               .Append(ToMoney(doc.Valor)).AppendLine();
         }
 
-        protected void EscreverTipo02(StringBuilder sb, ItemDocumento item)
+        protected virtual void EscreverTipo02(StringBuilder sb, ItemDocumento item)
         {
             // 02|DESCRICAOITEM|VALORITEM
             sb.Append("02").Append("|")
